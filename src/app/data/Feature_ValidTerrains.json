@@ -1,0 +1,718 @@
+[
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_ICE",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "FeatureType": "FEATURE_ICE",
+        "TerrainType": "TERRAIN_OCEAN"
+    },
+    {
+        "FeatureType": "FEATURE_JUNGLE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_JUNGLE",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_JUNGLE",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_JUNGLE",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_FOREST",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_FOREST",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_FOREST",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_FOREST",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_FOREST",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_FOREST",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_OASIS",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_MARSH",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_BARRIER_REEF",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "FeatureType": "FEATURE_CLIFFS_DOVER",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_CLIFFS_DOVER",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_CRATER_LAKE",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_CRATER_LAKE",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_DEAD_SEA",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_DEAD_SEA",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_EVEREST",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_EVEREST",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_EVEREST",
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_EVEREST",
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_GALAPAGOS",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "FeatureType": "FEATURE_KILIMANJARO",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_KILIMANJARO",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_KILIMANJARO",
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_KILIMANJARO",
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_PANTANAL",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_PANTANAL",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_PIOPIOTAHI",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_PIOPIOTAHI",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_PIOPIOTAHI",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_PIOPIOTAHI",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_TSINGY",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_TSINGY",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_TSINGY",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_TSINGY",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_TSINGY",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_TSINGY",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_YOSEMITE",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_YOSEMITE",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_HA_LONG_BAY",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "FeatureType": "FEATURE_EYJAFJALLAJOKULL",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "FeatureType": "FEATURE_EYJAFJALLAJOKULL",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_EYJAFJALLAJOKULL",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_EYJAFJALLAJOKULL",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_LYSEFJORDEN",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_LYSEFJORDEN",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_LYSEFJORDEN",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_LYSEFJORDEN",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_GIANTS_CAUSEWAY",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_GIANTS_CAUSEWAY",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_GIANTS_CAUSEWAY",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "FeatureType": "FEATURE_ULURU",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_ULURU",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_DELICATE_ARCH",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_DELICATE_ARCH",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_EYE_OF_THE_SAHARA",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_EYE_OF_THE_SAHARA",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_LAKE_RETBA",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_LAKE_RETBA",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_MATTERHORN",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_MATTERHORN",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_RORAIMA",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_RORAIMA",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_RORAIMA",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_RORAIMA",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_RORAIMA",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_RORAIMA",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_UBSUNUR_HOLLOW",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_UBSUNUR_HOLLOW",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_ZHANGYE_DANXIA",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_ZHANGYE_DANXIA",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_ZHANGYE_DANXIA",
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_ZHANGYE_DANXIA",
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_ZHANGYE_DANXIA",
+        "TerrainType": "TERRAIN_SNOW_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_REEF",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "FeatureType": "FEATURE_CHOCOLATEHILLS",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_CHOCOLATEHILLS",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_CHOCOLATEHILLS",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_CHOCOLATEHILLS",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_CHOCOLATEHILLS",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_CHOCOLATEHILLS",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_DEVILSTOWER",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_DEVILSTOWER",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_DEVILSTOWER",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_DEVILSTOWER",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_DEVILSTOWER",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_DEVILSTOWER",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_DEVILSTOWER",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_DEVILSTOWER",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_GOBUSTAN",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_GOBUSTAN",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_GOBUSTAN",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_IKKIL",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_IKKIL",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_IKKIL",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_IKKIL",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_PAMUKKALE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_PAMUKKALE",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_PAMUKKALE",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_PAMUKKALE",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_PAMUKKALE",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_PAMUKKALE",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_VESUVIUS",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_VESUVIUS",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_WHITEDESERT",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_WHITEDESERT",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_WHITEDESERT",
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS_GRASSLAND",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_FLOODPLAINS_PLAINS",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_GEOTHERMAL_FISSURE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_GEOTHERMAL_FISSURE",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_GEOTHERMAL_FISSURE",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_GEOTHERMAL_FISSURE",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_GEOTHERMAL_FISSURE",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_GEOTHERMAL_FISSURE",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_GEOTHERMAL_FISSURE",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_GEOTHERMAL_FISSURE",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_GEOTHERMAL_FISSURE",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "FeatureType": "FEATURE_GEOTHERMAL_FISSURE",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANO",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANO",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANO",
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANO",
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANO",
+        "TerrainType": "TERRAIN_SNOW_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "FeatureType": "FEATURE_VOLCANIC_SOIL",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_BERMUDA_TRIANGLE",
+        "TerrainType": "TERRAIN_OCEAN"
+    },
+    {
+        "FeatureType": "FEATURE_FOUNTAIN_OF_YOUTH",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_FOUNTAIN_OF_YOUTH",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_FOUNTAIN_OF_YOUTH",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_FOUNTAIN_OF_YOUTH",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_FOUNTAIN_OF_YOUTH",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_FOUNTAIN_OF_YOUTH",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_PAITITI",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_PAITITI",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_PAITITI",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_PAITITI",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_PAITITI",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_PAITITI",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNING_FOREST",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNING_FOREST",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNING_FOREST",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_BURNING_FOREST",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNING_FOREST",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNING_FOREST",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNT_FOREST",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNT_FOREST",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNT_FOREST",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_BURNT_FOREST",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNT_FOREST",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNT_FOREST",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNING_JUNGLE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNING_JUNGLE",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNING_JUNGLE",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNING_JUNGLE",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNT_JUNGLE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNT_JUNGLE",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNT_JUNGLE",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_BURNT_JUNGLE",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    }
+]

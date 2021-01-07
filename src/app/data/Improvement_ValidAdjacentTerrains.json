@@ -1,0 +1,42 @@
+[
+    {
+        "ImprovementType": "IMPROVEMENT_POLDER",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_POLDER",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_POLDER",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_POLDER",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_POLDER",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_POLDER",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_POLDER",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_POLDER",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_POLDER",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_POLDER",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    }
+]

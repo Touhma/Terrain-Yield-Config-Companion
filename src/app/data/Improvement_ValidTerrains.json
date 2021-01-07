@@ -1,0 +1,1832 @@
+[
+    {
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BARBARIAN_CAMP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FARM",
+        "PrereqCivic": "CIVIC_CIVIL_ENGINEERING",
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FARM",
+        "PrereqCivic": "CIVIC_CIVIL_ENGINEERING",
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MINE",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOODY_HUT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOODY_HUT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOODY_HUT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOODY_HUT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOODY_HUT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOODY_HUT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOODY_HUT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOODY_HUT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOODY_HUT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOODY_HUT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OIL_WELL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OIL_WELL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OIL_WELL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OIL_WELL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OIL_WELL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OIL_WELL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OIL_WELL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OIL_WELL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OIL_WELL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OIL_WELL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OFFSHORE_OIL_RIG",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OFFSHORE_OIL_RIG",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_OCEAN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BEACH_RESORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BEACH_RESORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BEACH_RESORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSILE_SILO",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSILE_SILO",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSILE_SILO",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSILE_SILO",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSILE_SILO",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHATEAU",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_COLOSSAL_HEAD",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_COLOSSAL_HEAD",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_COLOSSAL_HEAD",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_COLOSSAL_HEAD",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_COLOSSAL_HEAD",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_COLOSSAL_HEAD",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_COLOSSAL_HEAD",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_COLOSSAL_HEAD",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GREAT_WALL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GREAT_WALL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GREAT_WALL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GREAT_WALL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GREAT_WALL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GREAT_WALL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GREAT_WALL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GREAT_WALL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GREAT_WALL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GREAT_WALL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_KURGAN",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_KURGAN",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_KURGAN",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_KURGAN",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_KURGAN",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MISSION",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SPHINX",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SPHINX",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SPHINX",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SPHINX",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SPHINX",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SPHINX",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SPHINX",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SPHINX",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_STEPWELL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_STEPWELL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_STEPWELL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_STEPWELL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_STEPWELL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ZIGGURAT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ZIGGURAT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ZIGGURAT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ZIGGURAT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ZIGGURAT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_AIRSTRIP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_AIRSTRIP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_AIRSTRIP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_AIRSTRIP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_AIRSTRIP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ROMAN_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ROMAN_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ROMAN_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ROMAN_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ROMAN_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ROMAN_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ROMAN_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ROMAN_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ROMAN_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ROMAN_FORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_KAMPUNG",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ALCAZAR",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ALCAZAR",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ALCAZAR",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ALCAZAR",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ALCAZAR",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ALCAZAR",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ALCAZAR",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ALCAZAR",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ALCAZAR",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ALCAZAR",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MONASTERY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MONASTERY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MONASTERY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MONASTERY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MONASTERY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MONASTERY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MONASTERY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MONASTERY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MONASTERY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MONASTERY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PYRAMID",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PYRAMID",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PAIRIDAEZA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PAIRIDAEZA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PAIRIDAEZA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PAIRIDAEZA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PAIRIDAEZA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_PAIRIDAEZA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OUTBACK_STATION",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OUTBACK_STATION",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OUTBACK_STATION",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OUTBACK_STATION",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MEKEWAP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MEKEWAP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MEKEWAP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MEKEWAP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MEKEWAP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MEKEWAP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MEKEWAP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MEKEWAP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MEKEWAP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MEKEWAP",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHEMAMULL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHEMAMULL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHEMAMULL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHEMAMULL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHEMAMULL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHEMAMULL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHEMAMULL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHEMAMULL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHEMAMULL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CHEMAMULL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOLF_COURSE",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOLF_COURSE",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOLF_COURSE",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOLF_COURSE",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOLF_COURSE",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOLF_COURSE",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOLF_COURSE",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_GOLF_COURSE",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_POLDER",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_FISHERY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CITY_PARK",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CITY_PARK",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CITY_PARK",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CITY_PARK",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CITY_PARK",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CITY_PARK",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CITY_PARK",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CITY_PARK",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CITY_PARK",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_CITY_PARK",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SEASTEAD",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SEASTEAD",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_OCEAN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SOLAR_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SOLAR_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SOLAR_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SOLAR_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OFFSHORE_WIND_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_WIND_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_WIND_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_WIND_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_WIND_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_WIND_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOAI",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOAI",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOAI",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOAI",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUND",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUND",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUND",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUND",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_NAZCA_LINE",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SKI_RESORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SKI_RESORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SKI_RESORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SKI_RESORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_SKI_RESORT",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_MOUNTAIN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUNTAIN_TUNNEL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUNTAIN_TUNNEL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUNTAIN_TUNNEL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUNTAIN_TUNNEL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUNTAIN_TUNNEL",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_MOUNTAIN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ICE_HOCKEY_RINK",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ICE_HOCKEY_RINK",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ICE_HOCKEY_RINK",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ICE_HOCKEY_RINK",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TERRACE_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TERRACE_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TERRACE_FARM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MAORI_PA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MAORI_PA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MAORI_PA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MAORI_PA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MAORI_PA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OPEN_AIR_MUSEUM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OPEN_AIR_MUSEUM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OPEN_AIR_MUSEUM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OPEN_AIR_MUSEUM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OPEN_AIR_MUSEUM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OPEN_AIR_MUSEUM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OPEN_AIR_MUSEUM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OPEN_AIR_MUSEUM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OPEN_AIR_MUSEUM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_OPEN_AIR_MUSEUM",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUNTAIN_ROAD",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUNTAIN_ROAD",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUNTAIN_ROAD",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUNTAIN_ROAD",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MOUNTAIN_ROAD",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_MOUNTAIN"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MAHAVIHARA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MAHAVIHARA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MAHAVIHARA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MAHAVIHARA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_MAHAVIHARA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TRADING_DOME",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TRADING_DOME",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TRADING_DOME",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TRADING_DOME",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TRADING_DOME",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TRADING_DOME",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TRADING_DOME",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TRADING_DOME",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TRADING_DOME",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_TRADING_DOME",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BATEY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BATEY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BATEY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BATEY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_BATEY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_HACIENDA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_HACIENDA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_HACIENDA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_HACIENDA",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_METEOR_GOODY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_METEOR_GOODY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_METEOR_GOODY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_METEOR_GOODY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_METEOR_GOODY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_METEOR_GOODY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_METEOR_GOODY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_METEOR_GOODY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_METEOR_GOODY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_METEOR_GOODY",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ROCK_HEWN_CHURCH",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ROCK_HEWN_CHURCH",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ROCK_HEWN_CHURCH",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ROCK_HEWN_CHURCH",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ImprovementType": "IMPROVEMENT_ROCK_HEWN_CHURCH",
+        "PrereqCivic": null,
+        "PrereqTech": null,
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    }
+]

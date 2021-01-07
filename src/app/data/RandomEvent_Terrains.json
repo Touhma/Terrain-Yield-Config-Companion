@@ -1,0 +1,154 @@
+[
+    {
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_SIGNIFICANT",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_SIGNIFICANT",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_SIGNIFICANT",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_SIGNIFICANT",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_CRIPPLING",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_CRIPPLING",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_CRIPPLING",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_BLIZZARD_CRIPPLING",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_GRADIENT",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_GRADIENT",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_HABOOB",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_DUST_STORM_HABOOB",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_TORNADO_FAMILY",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_TORNADO_FAMILY",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_TORNADO_FAMILY",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_TORNADO_FAMILY",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_TORNADO_OUTBREAK",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_TORNADO_OUTBREAK",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_TORNADO_OUTBREAK",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_TORNADO_OUTBREAK",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_HURRICANE_CAT_4",
+        "TerrainType": "TERRAIN_OCEAN"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_HURRICANE_CAT_5",
+        "TerrainType": "TERRAIN_OCEAN"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_DROUGHT_MAJOR",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_DROUGHT_MAJOR",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_DROUGHT_MAJOR",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_DROUGHT_MAJOR",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_DROUGHT_EXTREME",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_DROUGHT_EXTREME",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_DROUGHT_EXTREME",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_DROUGHT_EXTREME",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_METEOR_SHOWER",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_METEOR_SHOWER",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_METEOR_SHOWER",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_METEOR_SHOWER",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_METEOR_SHOWER",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_METEOR_SHOWER",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_METEOR_SHOWER",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "RandomEventType": "RANDOM_EVENT_METEOR_SHOWER",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    }
+]

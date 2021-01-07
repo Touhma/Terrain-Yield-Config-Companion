@@ -1,0 +1,252 @@
+[
+    {
+        "CivilizationType": "CIVILIZATION_ENGLAND",
+        "TerrainType": "TERRAIN_COAST",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "TerrainType": "TERRAIN_DESERT_HILLS",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "TerrainType": "TERRAIN_GRASS_HILLS",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "TerrainType": "TERRAIN_PLAINS_HILLS",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_GREECE",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_NORWAY",
+        "TerrainType": "TERRAIN_COAST",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "TerrainType": "TERRAIN_TUNDRA",
+        "Tier": 2
+    },
+    {
+        "CivilizationType": "CIVILIZATION_RUSSIA",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS",
+        "Tier": 2
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SCYTHIA",
+        "TerrainType": "TERRAIN_GRASS",
+        "Tier": 5
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SCYTHIA",
+        "TerrainType": "TERRAIN_PLAINS",
+        "Tier": 5
+    },
+    {
+        "CivilizationType": "CIVILIZATION_SPAIN",
+        "TerrainType": "TERRAIN_COAST",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_LISBON",
+        "TerrainType": "TERRAIN_COAST",
+        "Tier": 1
+    },
+    {
+        "CivilizationType": "CIVILIZATION_NAN_MADOL",
+        "TerrainType": "TERRAIN_COAST",
+        "Tier": 1
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INDONESIA",
+        "TerrainType": "TERRAIN_COAST",
+        "Tier": 2
+    },
+    {
+        "CivilizationType": "CIVILIZATION_NUBIA",
+        "TerrainType": "TERRAIN_DESERT",
+        "Tier": 2
+    },
+    {
+        "CivilizationType": "CIVILIZATION_NUBIA",
+        "TerrainType": "TERRAIN_DESERT_HILLS",
+        "Tier": 2
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AUSTRALIA",
+        "TerrainType": "TERRAIN_COAST",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_KOREA",
+        "TerrainType": "TERRAIN_DESERT_HILLS",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_KOREA",
+        "TerrainType": "TERRAIN_GRASS_HILLS",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_KOREA",
+        "TerrainType": "TERRAIN_PLAINS_HILLS",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_KOREA",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_NETHERLANDS",
+        "TerrainType": "TERRAIN_COAST",
+        "Tier": 4
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAPUCHE",
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAPUCHE",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAPUCHE",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAPUCHE",
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_NAZCA",
+        "TerrainType": "TERRAIN_DESERT",
+        "Tier": 1
+    },
+    {
+        "CivilizationType": "CIVILIZATION_RAPA_NUI",
+        "TerrainType": "TERRAIN_COAST",
+        "Tier": 1
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CANADA",
+        "TerrainType": "TERRAIN_TUNDRA",
+        "Tier": 1
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CANADA",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS",
+        "Tier": 1
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CANADA",
+        "TerrainType": "TERRAIN_SNOW",
+        "Tier": 5
+    },
+    {
+        "CivilizationType": "CIVILIZATION_CANADA",
+        "TerrainType": "TERRAIN_SNOW_HILLS",
+        "Tier": 5
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INCA",
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INCA",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INCA",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INCA",
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN",
+        "Tier": 5
+    },
+    {
+        "CivilizationType": "CIVILIZATION_INCA",
+        "TerrainType": "TERRAIN_SNOW_MOUNTAIN",
+        "Tier": 5
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MALI",
+        "TerrainType": "TERRAIN_DESERT",
+        "Tier": 1
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MALI",
+        "TerrainType": "TERRAIN_DESERT_HILLS",
+        "Tier": 1
+    },
+    {
+        "CivilizationType": "CIVILIZATION_PHOENICIA",
+        "TerrainType": "TERRAIN_COAST",
+        "Tier": 2
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN",
+        "Tier": 5
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN",
+        "Tier": 3
+    },
+    {
+        "CivilizationType": "CIVILIZATION_AMERICA",
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN",
+        "Tier": 5
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "TerrainType": "TERRAIN_GRASS",
+        "Tier": 1
+    },
+    {
+        "CivilizationType": "CIVILIZATION_MAYA",
+        "TerrainType": "TERRAIN_PLAINS",
+        "Tier": 1
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ETHIOPIA",
+        "TerrainType": "TERRAIN_DESERT_HILLS",
+        "Tier": 2
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ETHIOPIA",
+        "TerrainType": "TERRAIN_GRASS_HILLS",
+        "Tier": 2
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ETHIOPIA",
+        "TerrainType": "TERRAIN_PLAINS_HILLS",
+        "Tier": 2
+    },
+    {
+        "CivilizationType": "CIVILIZATION_ETHIOPIA",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS",
+        "Tier": 2
+    }
+]

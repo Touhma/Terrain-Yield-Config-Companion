@@ -1,0 +1,70 @@
+[
+    {
+        "TerrainClassType": "TERRAIN_CLASS_GRASS",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "TerrainClassType": "TERRAIN_CLASS_GRASS",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "TerrainClassType": "TERRAIN_CLASS_MOUNTAIN",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "TerrainClassType": "TERRAIN_CLASS_PLAINS",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "TerrainClassType": "TERRAIN_CLASS_PLAINS",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "TerrainClassType": "TERRAIN_CLASS_MOUNTAIN",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "TerrainClassType": "TERRAIN_CLASS_DESERT",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "TerrainClassType": "TERRAIN_CLASS_DESERT",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "TerrainClassType": "TERRAIN_CLASS_MOUNTAIN",
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN"
+    },
+    {
+        "TerrainClassType": "TERRAIN_CLASS_TUNDRA",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "TerrainClassType": "TERRAIN_CLASS_TUNDRA",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "TerrainClassType": "TERRAIN_CLASS_MOUNTAIN",
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN"
+    },
+    {
+        "TerrainClassType": "TERRAIN_CLASS_SNOW",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "TerrainClassType": "TERRAIN_CLASS_SNOW",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "TerrainClassType": "TERRAIN_CLASS_MOUNTAIN",
+        "TerrainType": "TERRAIN_SNOW_MOUNTAIN"
+    },
+    {
+        "TerrainClassType": "TERRAIN_CLASS_WATER",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "TerrainClassType": "TERRAIN_CLASS_WATER",
+        "TerrainType": "TERRAIN_OCEAN"
+    }
+]

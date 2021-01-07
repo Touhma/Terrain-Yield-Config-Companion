@@ -1,0 +1,102 @@
+[
+    {
+        "DistrictType": "DISTRICT_ACROPOLIS",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "DistrictType": "DISTRICT_ACROPOLIS",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "DistrictType": "DISTRICT_ACROPOLIS",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "DistrictType": "DISTRICT_ACROPOLIS",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "DistrictType": "DISTRICT_ACROPOLIS",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "DistrictType": "DISTRICT_AERODROME",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "DistrictType": "DISTRICT_AERODROME",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "DistrictType": "DISTRICT_AERODROME",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "DistrictType": "DISTRICT_AERODROME",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "DistrictType": "DISTRICT_AERODROME",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "DistrictType": "DISTRICT_SPACEPORT",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "DistrictType": "DISTRICT_SPACEPORT",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "DistrictType": "DISTRICT_SPACEPORT",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "DistrictType": "DISTRICT_SPACEPORT",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "DistrictType": "DISTRICT_SPACEPORT",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "DistrictType": "DISTRICT_SEOWON",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "DistrictType": "DISTRICT_SEOWON",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "DistrictType": "DISTRICT_SEOWON",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "DistrictType": "DISTRICT_SEOWON",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "DistrictType": "DISTRICT_SEOWON",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "DistrictType": "DISTRICT_CANAL",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "DistrictType": "DISTRICT_CANAL",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "DistrictType": "DISTRICT_CANAL",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "DistrictType": "DISTRICT_CANAL",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "DistrictType": "DISTRICT_CANAL",
+        "TerrainType": "TERRAIN_DESERT"
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "FeatureType": "FEATURE_DEAD_SEA",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_DEAD_SEA",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_DEAD_SEA",
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_DEAD_SEA",
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_DEAD_SEA",
+        "TerrainType": "TERRAIN_SNOW_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_KILIMANJARO",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_KILIMANJARO",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_KILIMANJARO",
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_KILIMANJARO",
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_KILIMANJARO",
+        "TerrainType": "TERRAIN_SNOW_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_TORRES_DEL_PAINE",
+        "TerrainType": "TERRAIN_SNOW_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_TSINGY",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_TSINGY",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_TSINGY",
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_TSINGY",
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_TSINGY",
+        "TerrainType": "TERRAIN_SNOW_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_YOSEMITE",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_YOSEMITE",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_YOSEMITE",
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_YOSEMITE",
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_YOSEMITE",
+        "TerrainType": "TERRAIN_SNOW_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_PANTANAL",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "FeatureType": "FEATURE_ULURU",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_ULURU",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_ULURU",
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_ULURU",
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_ULURU",
+        "TerrainType": "TERRAIN_SNOW_MOUNTAIN"
+    },
+    {
+        "FeatureType": "FEATURE_ULURU",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_ULURU",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_ULURU",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_ULURU",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_ULURU",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_ULURU",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_ULURU",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_ULURU",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "FeatureType": "FEATURE_BERMUDA_TRIANGLE",
+        "TerrainType": "TERRAIN_COAST"
+    }
+]

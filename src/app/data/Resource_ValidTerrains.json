@@ -1,0 +1,422 @@
+[
+    {
+        "ResourceType": "RESOURCE_CATTLE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_COPPER",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_COPPER",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_COPPER",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_COPPER",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_COPPER",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_CRABS",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "ResourceType": "RESOURCE_DEER",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ResourceType": "RESOURCE_DEER",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_FISH",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "ResourceType": "RESOURCE_SHEEP",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_SHEEP",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_SHEEP",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_SHEEP",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_STONE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_STONE",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_RICE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_WHEAT",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_CITRUS",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_CITRUS",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_COFFEE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_COTTON",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_COTTON",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_DIAMONDS",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_DIAMONDS",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_DIAMONDS",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_DIAMONDS",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_FURS",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ResourceType": "RESOURCE_GYPSUM",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_GYPSUM",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_GYPSUM",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_GYPSUM",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_INCENSE",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ResourceType": "RESOURCE_INCENSE",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_IVORY",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ResourceType": "RESOURCE_IVORY",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_IVORY",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_JADE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_JADE",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_JADE",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ResourceType": "RESOURCE_MARBLE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_MARBLE",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_MARBLE",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_MERCURY",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_PEARLS",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "ResourceType": "RESOURCE_SALT",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ResourceType": "RESOURCE_SALT",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_SALT",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ResourceType": "RESOURCE_SILVER",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ResourceType": "RESOURCE_SILVER",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_SILVER",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ResourceType": "RESOURCE_SILVER",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_TEA",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_TEA",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_TOBACCO",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_TOBACCO",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_WHALES",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "ResourceType": "RESOURCE_WINE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_WINE",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_ALUMINUM",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ResourceType": "RESOURCE_ALUMINUM",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_ALUMINUM",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_COAL",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_COAL",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_HORSES",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_HORSES",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_IRON",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_IRON",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_IRON",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_IRON",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_NITER",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_NITER",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_NITER",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ResourceType": "RESOURCE_NITER",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ResourceType": "RESOURCE_OIL",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "ResourceType": "RESOURCE_OIL",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ResourceType": "RESOURCE_OIL",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ResourceType": "RESOURCE_OIL",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ResourceType": "RESOURCE_URANIUM",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ResourceType": "RESOURCE_URANIUM",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_URANIUM",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_URANIUM",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_URANIUM",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_URANIUM",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_URANIUM",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ResourceType": "RESOURCE_URANIUM",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_URANIUM",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ResourceType": "RESOURCE_URANIUM",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_ANTIQUITY_SITE",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "ResourceType": "RESOURCE_ANTIQUITY_SITE",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_ANTIQUITY_SITE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_ANTIQUITY_SITE",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_ANTIQUITY_SITE",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_ANTIQUITY_SITE",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_ANTIQUITY_SITE",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "ResourceType": "RESOURCE_ANTIQUITY_SITE",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_ANTIQUITY_SITE",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "ResourceType": "RESOURCE_ANTIQUITY_SITE",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "ResourceType": "RESOURCE_SHIPWRECK",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "ResourceType": "RESOURCE_AMBER",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "ResourceType": "RESOURCE_OLIVES",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_MAIZE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_MAIZE",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "ResourceType": "RESOURCE_HONEY",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "ResourceType": "RESOURCE_HONEY",
+        "TerrainType": "TERRAIN_PLAINS"
+    }
+]

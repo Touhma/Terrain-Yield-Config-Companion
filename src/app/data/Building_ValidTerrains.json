@@ -1,0 +1,394 @@
+[
+    {
+        "BuildingType": "BUILDING_ALHAMBRA",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_ALHAMBRA",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_ALHAMBRA",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_ALHAMBRA",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_ALHAMBRA",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_BOLSHOI_THEATRE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "BuildingType": "BUILDING_BOLSHOI_THEATRE",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "BuildingType": "BUILDING_BOLSHOI_THEATRE",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "BuildingType": "BUILDING_BOLSHOI_THEATRE",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "BuildingType": "BUILDING_BOLSHOI_THEATRE",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "BuildingType": "BUILDING_BROADWAY",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "BuildingType": "BUILDING_BROADWAY",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "BuildingType": "BUILDING_BROADWAY",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "BuildingType": "BUILDING_BROADWAY",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "BuildingType": "BUILDING_BROADWAY",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSEUM",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSEUM",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSEUM",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSEUM",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSEUM",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "BuildingType": "BUILDING_COLOSSUS",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "BuildingType": "BUILDING_CRISTO_REDENTOR",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_CRISTO_REDENTOR",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_CRISTO_REDENTOR",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_CRISTO_REDENTOR",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_CRISTO_REDENTOR",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_EIFFEL_TOWER",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "BuildingType": "BUILDING_EIFFEL_TOWER",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "BuildingType": "BUILDING_EIFFEL_TOWER",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "BuildingType": "BUILDING_EIFFEL_TOWER",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "BuildingType": "BUILDING_EIFFEL_TOWER",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "BuildingType": "BUILDING_ESTADIO_DO_MARACANA",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "BuildingType": "BUILDING_ESTADIO_DO_MARACANA",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "BuildingType": "BUILDING_ESTADIO_DO_MARACANA",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "BuildingType": "BUILDING_ESTADIO_DO_MARACANA",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "BuildingType": "BUILDING_ESTADIO_DO_MARACANA",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "BuildingType": "BUILDING_FORBIDDEN_CITY",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "BuildingType": "BUILDING_FORBIDDEN_CITY",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "BuildingType": "BUILDING_FORBIDDEN_CITY",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "BuildingType": "BUILDING_FORBIDDEN_CITY",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "BuildingType": "BUILDING_FORBIDDEN_CITY",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIBRARY",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIBRARY",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIBRARY",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIBRARY",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIBRARY",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "BuildingType": "BUILDING_GREAT_LIGHTHOUSE",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "BuildingType": "BUILDING_HAGIA_SOPHIA",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "BuildingType": "BUILDING_HAGIA_SOPHIA",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "BuildingType": "BUILDING_HAGIA_SOPHIA",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "BuildingType": "BUILDING_HAGIA_SOPHIA",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "BuildingType": "BUILDING_HAGIA_SOPHIA",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_ORACLE",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_OXFORD_UNIVERSITY",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "BuildingType": "BUILDING_OXFORD_UNIVERSITY",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "BuildingType": "BUILDING_PYRAMIDS",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "BuildingType": "BUILDING_PETRA",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "BuildingType": "BUILDING_POTALA_PALACE",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_POTALA_PALACE",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_POTALA_PALACE",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_POTALA_PALACE",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_POTALA_PALACE",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_STONEHENGE",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "BuildingType": "BUILDING_STONEHENGE",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "BuildingType": "BUILDING_STONEHENGE",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "BuildingType": "BUILDING_STONEHENGE",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "BuildingType": "BUILDING_STONEHENGE",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "BuildingType": "BUILDING_SYDNEY_OPERA_HOUSE",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "BuildingType": "BUILDING_TERRACOTTA_ARMY",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "BuildingType": "BUILDING_TERRACOTTA_ARMY",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "BuildingType": "BUILDING_VENETIAN_ARSENAL",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "BuildingType": "BUILDING_HUEY_TEOCALLI",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "BuildingType": "BUILDING_JEBEL_BARKAL",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "BuildingType": "BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_KILWA_KISIWANI",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "BuildingType": "BUILDING_KILWA_KISIWANI",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "BuildingType": "BUILDING_KILWA_KISIWANI",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "BuildingType": "BUILDING_KILWA_KISIWANI",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "BuildingType": "BUILDING_KILWA_KISIWANI",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_LIBERTY",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "BuildingType": "BUILDING_UNIVERSITY_SANKORE",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "BuildingType": "BUILDING_UNIVERSITY_SANKORE",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "BuildingType": "BUILDING_MACHU_PICCHU",
+        "TerrainType": "TERRAIN_GRASS_MOUNTAIN"
+    },
+    {
+        "BuildingType": "BUILDING_MACHU_PICCHU",
+        "TerrainType": "TERRAIN_PLAINS_MOUNTAIN"
+    },
+    {
+        "BuildingType": "BUILDING_MACHU_PICCHU",
+        "TerrainType": "TERRAIN_TUNDRA_MOUNTAIN"
+    },
+    {
+        "BuildingType": "BUILDING_MACHU_PICCHU",
+        "TerrainType": "TERRAIN_SNOW_MOUNTAIN"
+    },
+    {
+        "BuildingType": "BUILDING_MACHU_PICCHU",
+        "TerrainType": "TERRAIN_DESERT_MOUNTAIN"
+    },
+    {
+        "BuildingType": "BUILDING_GOLDEN_GATE_BRIDGE",
+        "TerrainType": "TERRAIN_COAST"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_OF_ZEUS",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_OF_ZEUS",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_OF_ZEUS",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_OF_ZEUS",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "BuildingType": "BUILDING_STATUE_OF_ZEUS",
+        "TerrainType": "TERRAIN_DESERT"
+    }
+]

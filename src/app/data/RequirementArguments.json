@@ -1,0 +1,5714 @@
+[
+    {
+        "Extra": null,
+        "Name": "WarType",
+        "RequirementId": "REQUIRES_PLAYER_DECLARED_SURPRISE_WAR",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "SURPRISE_WAR"
+    },
+    {
+        "Extra": null,
+        "Name": "WhileMet",
+        "RequirementId": "REQUIRES_PLAYER_DECLARED_SURPRISE_WAR",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "WarType",
+        "RequirementId": "REQUIRES_PLAYER_DECLARED_JOINT_WAR",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "JOINT_WAR"
+    },
+    {
+        "Extra": null,
+        "Name": "TurnsAgo",
+        "RequirementId": "REQUIRES_MET_10_TURNS_AGO",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "10"
+    },
+    {
+        "Extra": null,
+        "Name": "TurnsAgo",
+        "RequirementId": "REQUIRES_MET_30_TURNS_AGO",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "30"
+    },
+    {
+        "Extra": null,
+        "Name": "FoundingDelay",
+        "RequirementId": "REQUIRES_RELIGION_NOT_RECEIVED",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "10"
+    },
+    {
+        "Extra": null,
+        "Name": "GreatPersonRatio",
+        "RequirementId": "REQUIRES_LAGS_GREAT_PEOPLE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1.2"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_LAGS_GREAT_PEOPLE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "GreatPersonRatio",
+        "RequirementId": "REQUIRES_LEADS_GREAT_PEOPLE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.2"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_LEADS_GREAT_PEOPLE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_HIGH_CULTURE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldType",
+        "RequirementId": "REQUIRES_HAS_HIGH_CULTURE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "YIELD_CULTURE"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldRatio",
+        "RequirementId": "REQUIRES_HAS_HIGH_CULTURE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.15"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_LOW_CULTURE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldType",
+        "RequirementId": "REQUIRES_HAS_LOW_CULTURE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "YIELD_CULTURE"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldRatio",
+        "RequirementId": "REQUIRES_HAS_LOW_CULTURE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1.15"
+    },
+    {
+        "Extra": null,
+        "Name": "NoUpperBound",
+        "RequirementId": "REQUIRES_HIGH_CITY_STATE_PROTECTION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "LowerBound",
+        "RequirementId": "REQUIRES_HIGH_CITY_STATE_PROTECTION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "UpperBound",
+        "RequirementId": "REQUIRES_MED_CITY_STATE_PROTECTION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "LowerBound",
+        "RequirementId": "REQUIRES_MED_CITY_STATE_PROTECTION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "UpperBound",
+        "RequirementId": "REQUIRES_MED_CITY_STATE_AGGRESSION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1"
+    },
+    {
+        "Extra": null,
+        "Name": "LowerBound",
+        "RequirementId": "REQUIRES_MED_CITY_STATE_AGGRESSION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1"
+    },
+    {
+        "Extra": null,
+        "Name": "NoLowerBound",
+        "RequirementId": "REQUIRES_HIGH_CITY_STATE_AGGRESSION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "UpperBound",
+        "RequirementId": "REQUIRES_HIGH_CITY_STATE_AGGRESSION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-2"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_HIGH_EXPLORATION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "ExplorationRatio",
+        "RequirementId": "REQUIRES_HAS_HIGH_EXPLORATION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.1"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_LOW_EXPLORATION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "ExplorationRatio",
+        "RequirementId": "REQUIRES_HAS_LOW_EXPLORATION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1.1"
+    },
+    {
+        "Extra": null,
+        "Name": "ClearedCampValue",
+        "RequirementId": "REQUIRES_CLEARS_BARBARIAN_CAMPS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "IgnoredCampValue",
+        "RequirementId": "REQUIRES_CLEARS_BARBARIAN_CAMPS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "CampToCityDistance",
+        "RequirementId": "REQUIRES_CLEARS_BARBARIAN_CAMPS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "10"
+    },
+    {
+        "Extra": null,
+        "Name": "TotalScoreThreshold",
+        "RequirementId": "REQUIRES_CLEARS_BARBARIAN_CAMPS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "ClearedCampValue",
+        "RequirementId": "REQUIRES_IGNORES_BARBARIAN_CAMPS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "IgnoredCampValue",
+        "RequirementId": "REQUIRES_IGNORES_BARBARIAN_CAMPS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "CampToCityDistance",
+        "RequirementId": "REQUIRES_IGNORES_BARBARIAN_CAMPS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "10"
+    },
+    {
+        "Extra": null,
+        "Name": "TotalScoreThreshold",
+        "RequirementId": "REQUIRES_IGNORES_BARBARIAN_CAMPS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "BelowThreshold",
+        "RequirementId": "REQUIRES_IGNORES_BARBARIAN_CAMPS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_HIGH_FAITH",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldType",
+        "RequirementId": "REQUIRES_HAS_HIGH_FAITH",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "YIELD_FAITH"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldRatio",
+        "RequirementId": "REQUIRES_HAS_HIGH_FAITH",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.15"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_LOW_FAITH",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldType",
+        "RequirementId": "REQUIRES_HAS_LOW_FAITH",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "YIELD_FAITH"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldRatio",
+        "RequirementId": "REQUIRES_HAS_LOW_FAITH",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1.15"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_HIGH_INDUSTRY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldType",
+        "RequirementId": "REQUIRES_HAS_HIGH_INDUSTRY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "YIELD_PRODUCTION"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldRatio",
+        "RequirementId": "REQUIRES_HAS_HIGH_INDUSTRY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.15"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_LOW_INDUSTRY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldType",
+        "RequirementId": "REQUIRES_HAS_LOW_INDUSTRY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "YIELD_PRODUCTION"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldRatio",
+        "RequirementId": "REQUIRES_HAS_LOW_INDUSTRY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1.15"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_HIGH_SCIENCE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldType",
+        "RequirementId": "REQUIRES_HAS_HIGH_SCIENCE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "YIELD_SCIENCE"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldRatio",
+        "RequirementId": "REQUIRES_HAS_HIGH_SCIENCE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.15"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_LOW_SCIENCE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldType",
+        "RequirementId": "REQUIRES_HAS_LOW_SCIENCE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "YIELD_SCIENCE"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldRatio",
+        "RequirementId": "REQUIRES_HAS_LOW_SCIENCE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1.15"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_HIGH_HAPPINESS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "HappinessRatio",
+        "RequirementId": "REQUIRES_HAS_HIGH_HAPPINESS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.3"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_LOW_HAPPINESS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "HappinessRatio",
+        "RequirementId": "REQUIRES_HAS_LOW_HAPPINESS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1.3"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_HIGH_INCOME",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "10"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldRatio",
+        "RequirementId": "REQUIRES_HAS_HIGH_INCOME",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.3"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_LOW_INCOME",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "10"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldRatio",
+        "RequirementId": "REQUIRES_HAS_LOW_INCOME",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1.3"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_HIGH_POPULATION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "PopulationRatio",
+        "RequirementId": "REQUIRES_HAS_HIGH_POPULATION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.1"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_LOW_POPULATION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "PopulationRatio",
+        "RequirementId": "REQUIRES_HAS_LOW_POPULATION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1.1"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_HIGH_STANDING_ARMY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "StrengthRatio",
+        "RequirementId": "REQUIRES_HAS_HIGH_STANDING_ARMY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.2"
+    },
+    {
+        "Extra": null,
+        "Name": "DomainType",
+        "RequirementId": "REQUIRES_HAS_HIGH_STANDING_ARMY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_LAND"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_LOW_STANDING_ARMY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "StrengthRatio",
+        "RequirementId": "REQUIRES_HAS_LOW_STANDING_ARMY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1.2"
+    },
+    {
+        "Extra": null,
+        "Name": "DomainType",
+        "RequirementId": "REQUIRES_HAS_LOW_STANDING_ARMY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_LAND"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_HIGH_AIRPOWER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "StrengthRatio",
+        "RequirementId": "REQUIRES_HAS_HIGH_AIRPOWER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.2"
+    },
+    {
+        "Extra": null,
+        "Name": "DomainType",
+        "RequirementId": "REQUIRES_HAS_HIGH_AIRPOWER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_AIR"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_LOW_AIRPOWER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "StrengthRatio",
+        "RequirementId": "REQUIRES_HAS_LOW_AIRPOWER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1.2"
+    },
+    {
+        "Extra": null,
+        "Name": "DomainType",
+        "RequirementId": "REQUIRES_HAS_LOW_AIRPOWER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_AIR"
+    },
+    {
+        "Extra": null,
+        "Name": "TechnologyType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_FLIGHT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TECH_FLIGHT"
+    },
+    {
+        "Extra": null,
+        "Name": "UsedNukeValue",
+        "RequirementId": "REQUIRES_HIGH_NUKE_LOVE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "BuiltNukeValue",
+        "RequirementId": "REQUIRES_HIGH_NUKE_LOVE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "TotalScoreThreshold",
+        "RequirementId": "REQUIRES_HIGH_NUKE_LOVE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "UsedNukeValue",
+        "RequirementId": "REQUIRES_LOW_NUKE_LOVE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "BuiltNukeValue",
+        "RequirementId": "REQUIRES_LOW_NUKE_LOVE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "TotalScoreThreshold",
+        "RequirementId": "REQUIRES_LOW_NUKE_LOVE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "BelowThreshold",
+        "RequirementId": "REQUIRES_LOW_NUKE_LOVE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "TechnologyType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NUCLEAR_FISSION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TECH_NUCLEAR_FISSION"
+    },
+    {
+        "Extra": null,
+        "Name": "TechCivicDifferential",
+        "RequirementId": "REQUIRES_LAGS_PROGRESS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-3"
+    },
+    {
+        "Extra": null,
+        "Name": "TechCivicDifferential",
+        "RequirementId": "REQUIRES_LEADS_PROGRESS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "WonderRatio",
+        "RequirementId": "REQUIRES_LAGS_WONDERS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1.2"
+    },
+    {
+        "Extra": null,
+        "Name": "WonderRatio",
+        "RequirementId": "REQUIRES_LEADS_WONDERS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.2"
+    },
+    {
+        "Extra": null,
+        "Name": "AgreementValue",
+        "RequirementId": "REQUIRES_PLAYER_WITH_SHIELD_OR_ON_IT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "PercentCompeting",
+        "RequirementId": "REQUIRES_COMPETING_MINORS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "50"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_CITY_HAS_0_SPECIALTY_DISTRICTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "MustBeFunctioning",
+        "RequirementId": "REQUIRES_CITY_HAS_0_SPECIALTY_DISTRICTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "FriendlyCity",
+        "RequirementId": "REQUIRES_UNIT_NEAR_FRIENDLY_RELIGIOUS_CITY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "FriendlyCity",
+        "RequirementId": "REQUIRES_UNIT_NEAR_ENEMY_RELIGIOUS_CITY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "REQUIRES_PLOT_HAS_MARSH",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_MARSH"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "REQUIRES_PLOT_HAS_OASIS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_OASIS"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "REQUIRES_PLOT_HAS_FLOODPLAINS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_FLOODPLAINS"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_PLOT_HAS_FISHINGBOATS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_FISHING_BOATS"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_PLOT_HAS_PASTURE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_PASTURE"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_PLOT_HAS_CAMP",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_CAMP"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_PLOT_HAS_QUARRY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_QUARRY"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_PLOT_HAS_MINE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_MINE"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_PLOT_HAS_PLANTATION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_PLANTATION"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceClassType",
+        "RequirementId": "REQUIRES_PLOT_HAS_BONUS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCECLASS_BONUS"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceClassType",
+        "RequirementId": "REQUIRES_PLOT_HAS_LUXURY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCECLASS_LUXURY"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceClassType",
+        "RequirementId": "REQUIRES_PLOT_HAS_STRATEGIC",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCECLASS_STRATEGIC"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "REQUIRES_PLOT_HAS_TAG_GODDESS_OF_FESTIVAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_GODDESS_OF_FESTIVALS"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "REQUIRES_PLOT_HAS_TAG_ORAL_TRADITION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_ORAL_TRADITION"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_PLOT_WITHIN_EIGHT_HOLY_SITE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_HOLY_SITE"
+    },
+    {
+        "Extra": null,
+        "Name": "MinRange",
+        "RequirementId": "REQUIRES_PLOT_WITHIN_EIGHT_HOLY_SITE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxRange",
+        "RequirementId": "REQUIRES_PLOT_WITHIN_EIGHT_HOLY_SITE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "8"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_HOLY_SITE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_HOLY_SITE"
+    },
+    {
+        "Extra": null,
+        "Name": "MinRange",
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_HOLY_SITE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_PLOT_HAS_HOLY_SITE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_HOLY_SITE"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumAppeal",
+        "RequirementId": "REQUIRES_PLOT_CHARMING_APPEAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_SHRINE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_SHRINE"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_TEMPLE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_TEMPLE"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_STAVE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_STAVE_CHURCH"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "REQUIRES_NON_RELIGIOUS_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_RELIGIOUS"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "REQUIRES_NON_SUPPORT_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_SUPPORT"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "REQUIRES_PLOT_HAS_NOT_COAST",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_COAST"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_RICE_IN_PLOT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_RICE"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_WHEAT_IN_PLOT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_WHEAT"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_CHICHEN_ITZA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_CHICHEN_ITZA"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "REQUIRES_PLOT_HAS_JUNGLE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_JUNGLE"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_LIGHTHOUSE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_LIGHTHOUSE"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "REQUIRES_PLOT_HAS_COAST",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_COAST"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainClass",
+        "RequirementId": "PETRA_YIELD_MODIFIER_REQUIRES_PLOT_HAS_DESERT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_CLASS_DESERT"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "REQUIREMENT_UNIT_IS_MELEE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_MELEE"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "REQUIREMENT_UNIT_IS_RANGED",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_RANGED"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "REQUIREMENT_UNIT_IS_ANTI_CAV",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_ANTI_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "REQUIREMENT_UNIT_IS_LIGHT_CAV",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_LIGHT_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "REQUIREMENT_UNIT_IS_SIEGE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_SIEGE"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "REQUIRES_LAND_DOMAIN",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_LAND"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "REQUIRES_SEA_DOMAIN",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_SEA"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "REQUIRES_AIR_DOMAIN",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_AIR"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "REQUIRES_RELIGIOUS_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_RELIGIOUS_SPREAD"
+    },
+    {
+        "Extra": null,
+        "Name": "TechnologyType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_ELECTRICITYTECHNOLOGY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TECH_ELECTRICITY"
+    },
+    {
+        "Extra": null,
+        "Name": "GreatPersonClass",
+        "RequirementId": "REQUIRES_PLAYER_CAN_EVER_EARN_PROPHET",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "GREAT_PERSON_CLASS_PROPHET"
+    },
+    {
+        "Extra": null,
+        "Name": "GreatPersonClass",
+        "RequirementId": "REQUIRES_PLAYER_CAN_NOT_EVER_EARN_PROPHET",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "GREAT_PERSON_CLASS_PROPHET"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_PETRA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_PETRA"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "REQUIRES_PLOT_HAS_DESERT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_DESERT"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "REQUIRES_PLOT_HAS_DESERT_HILLS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "REQUIRES_PLOT_HAS_NO_FLOODPLAINS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_FLOODPLAINS"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_ANCIENT_WALLS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_WALLS"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_RENAISSANCE_WALLS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_STAR_FORT"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_PLOT_HAS_FARM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_FARM"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_CITY_HAS_LAVRA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_LAVRA"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "REQUIRES_PLOT_HAS_TUNDRA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_TUNDRA"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "REQUIRES_PLOT_HAS_TUNDRA_HILLS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "REQUIRES_UNIT_IS_DOMAIN_LAND",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_LAND"
+    },
+    {
+        "Extra": null,
+        "Name": "TechnologyType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_SHIPBUILDING_TECH",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TECH_SHIPBUILDING"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_NO_COMMERCIAL_HUB",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_COMMERCIAL_HUB"
+    },
+    {
+        "Extra": null,
+        "Name": "MustBeFunctioning",
+        "RequirementId": "REQUIRES_NO_COMMERCIAL_HUB",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "MAP_CONTAINS_DEAD_SEA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_DEAD_SEA"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "MAP_CONTAINS_EVEREST",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_EVEREST"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "REQUIRES_LAND_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_LAND"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "DEAD_SEA_REQUIRES_ADJACENT_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_DEAD_SEA"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "EVEREST_REQUIRES_ADJACENT_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_EVEREST"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_MEDIEVAL_WALLS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_CASTLE"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "AOE_REQUIRES_CLASSICAL_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_CLASSICAL"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "AOE_REQUIRES_MEDIEVAL_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_MEDIEVAL"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "AOE_REQUIRES_RENAISSANCE_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_RENAISSANCE"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "AOE_REQUIRES_INDUSTRIAL_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_INDUSTRIAL"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "AOE_REQUIRES_MODERN_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_MODERN"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "AOE_REQUIRES_ATOMIC_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_ATOMIC"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "AOE_REQUIRES_INFORMATION_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_INFORMATION"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "AOE_REQUIRES_CLASSICAL_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "AOE_CLASSICAL_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "AOE_REQUIRES_MEDIEVAL_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "AOE_MEDIEVAL_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "AOE_REQUIRES_RENAISSANCE_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "AOE_RENAISSANCE_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "AOE_REQUIRES_INDUSTRIAL_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "AOE_INDUSTRIAL_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "AOE_REQUIRES_MODERN_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "AOE_MODERN_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "AOE_REQUIRES_ATOMIC_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "AOE_ATOMIC_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "AOE_REQUIRES_INFORMATION_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "AOE_INFORMATION_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "AOE_REQUIRES_SEA_DOMAIN",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_SEA"
+    },
+    {
+        "Extra": null,
+        "Name": "MinDistance",
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxDistance",
+        "RequirementId": "AOE_REQUIRES_OWNER_ADJACENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "REQUIREMENT_UNIT_IS_SUBMARINE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_SUBMARINE"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "UNIT_IS_DOMAIN_SEA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_SEA"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "AOE_REQUIRES_LAND_DOMAIN",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_LAND"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "REQUIREMENTS_MET_UNIT_IS_CAVALRY_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_IS_CAVALRY_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "UNIT_IS_LIGHT_CAVALRY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_LIGHT_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "UNIT_IS_HEAVY_CAVALRY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_HEAVY_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "UNIT_IS_DOMAIN_LAND",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_LAND"
+    },
+    {
+        "Extra": null,
+        "Name": "MinDistance",
+        "RequirementId": "GREATPERSON_BOUDICA_ACTIVE_REQUIRES_LAND_ADJACENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxDistance",
+        "RequirementId": "GREATPERSON_BOUDICA_ACTIVE_REQUIRES_LAND_ADJACENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "TechnologyType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_TECHNOLOGY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TECH_SANITATION"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceClassType",
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_LUXURY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCECLASS_LUXURY"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_CAMPUS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_CAMPUS"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_FARM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_FARM"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_HOLYSITE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_HOLY_SITE"
+    },
+    {
+        "Extra": null,
+        "Name": "OpponentCivLevel",
+        "RequirementId": "REQUIRES_MAJOR_CIV_OPPONENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CIVILIZATION_LEVEL_FULL_CIV"
+    },
+    {
+        "Extra": null,
+        "Name": "OpponentCivLevel",
+        "RequirementId": "REQUIRES_PLAYER_IS_MINOR_CIV",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CIVILIZATION_LEVEL_CITY_STATE"
+    },
+    {
+        "Extra": null,
+        "Name": "Handicap",
+        "RequirementId": "REQUIRES_HIGH_DIFFICULTY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DIFFICULTY_PRINCE"
+    },
+    {
+        "Extra": null,
+        "Name": "Handicap",
+        "RequirementId": "REQUIRES_LOW_DIFFICULTY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DIFFICULTY_WARLORD"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "REQUIRES_WARMONGER_TRIGGER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "WARMONGER_TRIGGERS"
+    },
+    {
+        "Extra": null,
+        "Name": "OnlyOwnersCity",
+        "RequirementId": "REQUIRES_WARMONGER_TRIGGER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "WhileMet",
+        "RequirementId": "REQUIRES_PLAYER_DECLARED_WAR_EXCLUDE_SHARED_EMERGENCIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "ExcludeEmergencies",
+        "RequirementId": "REQUIRES_PLAYER_DECLARED_WAR_EXCLUDE_SHARED_EMERGENCIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "GracePeriod",
+        "RequirementId": "REQUIRES_PLAYER_NO_OPEN_BORDERS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "Min Turns",
+        "RequirementId": "REQUIRES_AT_PEACE_10_TURNS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "10"
+    },
+    {
+        "Extra": null,
+        "Name": "OnlyOwnersCity",
+        "RequirementId": "REQUIRES_PLAYER_CITY_LIBERATED",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "OnlyOwnersCity",
+        "RequirementId": "REQUIRES_PLAYER_MY_CITY_LIBERATED",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "OnlyOwnersCity",
+        "RequirementId": "REQUIRES_PLAYER_MY_CITY_RAZED",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_PLAYER_HAS_SMALL_MILITARY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "10"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumTokens",
+        "RequirementId": "REQUIRES_PLAYER_HAS_SMALL_INFLUENCE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumTokens",
+        "RequirementId": "REQUIRES_PLAYER_HAS_MEDIUM_INFLUENCE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumTokens",
+        "RequirementId": "REQUIRES_PLAYER_HAS_LARGE_INFLUENCE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "6"
+    },
+    {
+        "Extra": null,
+        "Name": "BeliefType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_PAPAL_PRIMACY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BELIEF_PAPAL_PRIMACY"
+    },
+    {
+        "Extra": null,
+        "Name": "TechnologyType",
+        "RequirementId": "REQUIRES_TECHNOLOGY_CASTLES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TECH_CASTLES"
+    },
+    {
+        "Extra": null,
+        "Name": "CollectionType",
+        "RequirementId": "REQUIRES_CAPITAL_CITY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "COLLECTION_PLAYER_CAPITAL_CITY"
+    },
+    {
+        "Extra": null,
+        "Name": "Count",
+        "RequirementId": "REQUIRES_CAPITAL_CITY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_ALUMINUM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_ALUMINUM"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_CAN_SEE_ALUMINUM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_ALUMINUM"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_COAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_COAL"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_CAN_SEE_COAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_COAL"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_HORSES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_HORSES"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_CAN_SEE_HORSES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_HORSES"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_IRON",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_IRON"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_CAN_SEE_IRON",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_IRON"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_NITER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_NITER"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_CAN_SEE_NITER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_NITER"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_OIL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_OIL"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_CAN_SEE_OIL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_OIL"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_URANIUM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_URANIUM"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_CAN_SEE_URANIUM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_URANIUM"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "REQUIRES_UNIT_IS_INQUISITOR",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_INQUISITOR"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "REQUIRES_UNIT_IS_TRADER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_TRADER"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "REQUIRES_UNIT_LAND_DOMAIN",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_LAND"
+    },
+    {
+        "Extra": null,
+        "Name": "Water",
+        "RequirementId": "REQUIRES_UNIT_ON_COASTAL_LAND",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "REQUIRES_UNIT_SEA_DOMAIN",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_SEA"
+    },
+    {
+        "Extra": null,
+        "Name": "Water",
+        "RequirementId": "REQUIRES_UNIT_IN_SHALLOW_WATER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "TransferType",
+        "RequirementId": "CITY_FOUNDED_BY_SETTLER_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BY_SETTLER"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "FOREIGN_CITY_REQUIRES_CITY_HAS_ROYAL_NAVY_DOCKYARD",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_ROYAL_NAVY_DOCKYARD"
+    },
+    {
+        "Extra": null,
+        "Name": "MustBeFunctioning",
+        "RequirementId": "FOREIGN_CITY_REQUIRES_CITY_HAS_ROYAL_NAVY_DOCKYARD",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "RECON_UNITS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_RECON"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_CITY_HAS_2_SPECIALTY_DISTRICTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_CITY_HAS_3_SPECIALTY_DISTRICTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_STADIUM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_STADIUM"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_MILITARY_ACADEMY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_MILITARY_ACADEMY"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_SEAPORT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_SEAPORT"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "REQUIREMENT_UNIT_IS_SPY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_SPY"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "REQUIREMENT_UNIT_IS_BUILDER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_BUILDER"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_CITY_HAS_ENCAMPMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_ENCAMPMENT"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_CITY_HAS_HOLY_SITE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_HOLY_SITE"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_CITY_HAS_THEATER_DISTRICT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_THEATER"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_CITY_HAS_CAMPUS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_CAMPUS"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_CITY_HAS_COMMERCIAL_HUB",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_COMMERCIAL_HUB"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_CITY_HAS_HARBOR",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_HARBOR"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_CITY_HAS_INDUSTRIAL_ZONE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_INDUSTRIAL_ZONE"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_DISTRICT_IS_CAMPUS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_CAMPUS"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_DISTRICT_IS_HOLY_SITE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_HOLY_SITE"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_DISTRICT_IS_COMMERCIAL_HUB",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_COMMERCIAL_HUB"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_DISTRICT_IS_HARBOR",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_HARBOR"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_DISTRICT_IS_THEATER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_THEATER"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_DISTRICT_IS_ENCAMPMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_ENCAMPMENT"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_DISTRICT_IS_INDUSTRIAL_ZONE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_INDUSTRIAL_ZONE"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_DISTRICT_IS_ENTERTAINMENT_COMPLEX",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_ENTERTAINMENT_COMPLEX"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_PLOT_HAS_ENCAMPMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_ENCAMPMENT"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_DISTRICT_IS_AQUEDUCT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_AQUEDUCT"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_DISTRICT_IS_CITY_CENTER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_DISTRICT_IS_WORLD_WONDER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_WONDER"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_PLOT_HAS_HARBOR",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_HARBOR"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_PLOT_HAS_COMMERCIAL_HUB",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_COMMERCIAL_HUB"
+    },
+    {
+        "Extra": null,
+        "Name": "TechnologyType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_APPRENTICESHIP",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TECH_APPRENTICESHIP"
+    },
+    {
+        "Extra": null,
+        "Name": "TechnologyType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_WRITING",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TECH_WRITING"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "REQUIRES_UNIT_IS_RELIGIOUS_ALL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_RELIGIOUS_ALL"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "ANTI_CAVALRY_OPPONENT_REQUIREMENT_LC",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_LIGHT_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "ANTI_CAVALRY_OPPONENT_REQUIREMENT_HC",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_HEAVY_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "ANTI_CAVALRY_OPPONENT_REQUIREMENT_RC",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_RANGED_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "ANTI_FIGHTER_AIRCRAFT_OPPONENT_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_AIR_FIGHTER"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "ADJACENT_FRIENDLY_OBSERVER_UNIT_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_OBSERVATION"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "SIEGE_UNIT_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_SIEGE"
+    },
+    {
+        "Extra": null,
+        "Name": "MinDistance",
+        "RequirementId": "ADJACENT_UNIT_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MinDistance",
+        "RequirementId": "VARU_ADJACENT_UNIT_AT_WAR_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxDistance",
+        "RequirementId": "VARU_ADJACENT_UNIT_AT_WAR_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "PLOT_UNIT_IS_APOSTLE_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_APOSTLE"
+    },
+    {
+        "Extra": null,
+        "Name": "LayerIndex",
+        "RequirementId": "PLOT_UNIT_IS_APOSTLE_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "PLOT_UNIT_IS_INQUISITOR_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_INQUISITOR"
+    },
+    {
+        "Extra": null,
+        "Name": "LayerIndex",
+        "RequirementId": "PLOT_UNIT_IS_INQUISITOR_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "PLOT_UNIT_IS_MISSIONARY_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_MISSIONARY"
+    },
+    {
+        "Extra": null,
+        "Name": "LayerIndex",
+        "RequirementId": "PLOT_UNIT_IS_MISSIONARY_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "PLOT_UNIT_IS_GURU_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_GURU"
+    },
+    {
+        "Extra": null,
+        "Name": "LayerIndex",
+        "RequirementId": "PLOT_UNIT_IS_GURU_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "REQUIRES_UNIT_NEXT_TO_HOPLITE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_GREEK_HOPLITE"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "REQUIRES_TERRAIN_OCEAN",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_OCEAN"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "REQUIRES_TERRAIN_COAST",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_COAST"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "PLOT_IS_GRASS_HILLS_TERRAIN_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "PLOT_IS_PLAINS_HILLS_TERRAIN_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "PLOT_IS_TUNDRA_HILLS_TERRAIN_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "PLOT_IS_DESERT_HILLS_TERRAIN_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "PLOT_IS_SNOW_HILLS_TERRAIN_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "REQUIRES_UNIT_IS_LAND_DOMAIN",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_LAND"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "BATTLECRY_OPPONENT_REQUIREMENTS_MET",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BATTLECRY_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "OPPONENT_ANTI_CAVALRY_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_ANTI_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "OPPONENT_SIEGE_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_SIEGE"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "OPPONENT_RANGED_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_RANGED"
+    },
+    {
+        "Extra": null,
+        "Name": "CombatType",
+        "RequirementId": "RANGED_COMBAT_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "COMBAT_RANGED"
+    },
+    {
+        "Extra": null,
+        "Name": "CombatType",
+        "RequirementId": "MELEE_COMBAT_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "COMBAT_MELEE"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "REACTIVE_ARMOR_OPPONENT_REQUIREMENTS_MET_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "REACTIVE_ARMOR_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "STRAFE_OPPONENT_REQUIREMENTS_MET_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "STRAFE_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "TANK_BUSTER_OPPONENT_REQUIREMENTS_MET_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TANK_BUSTER_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "OPPONENT_IS_LAND_UNIT_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_LAND"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "OPPONENT_IS_FIGHTER_UNIT_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_AIR_FIGHTER"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "OPPONENT_IS_BOMBER_UNIT_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_AIR_BOMBER"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "OPPONENT_IS_ANTI_AIR_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_ANTI_AIR"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "OPPONENT_IS_LIGHT_CAVALRY_UNIT_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_LIGHT_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "OPPONENT_IS_HEAVY_CAVALRY_UNIT_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_HEAVY_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "OPPONENT_IS_NOT_LIGHT_CAVALRY_UNIT_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_LIGHT_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "OPPONENT_IS_NOT_HEAVY_CAVALRY_UNIT_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_HEAVY_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "OPPONENT_IS_NOT_AIR_UNIT_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_AIR"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "OPPONENT_IS_NAVAL_UNIT_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_SEA"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "OPPONENT_IS_AIR_UNIT_REQUIREMENTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_AIR"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "GARRISON_PLOT_REQUIREMENTS_MET",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "GARRISON_PLOT_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "UNIT_IS_OCCUPYING_FORT_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_FORT"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "UNIT_IS_OCCUPYING_ROMAN_FORT_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_ROMAN_FORT"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "UNIT_IS_OCCUPYING_DEFENSE_IMPROVEMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "ECHELON_OPPONENT_REQUIREMENT_LC",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_LIGHT_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "ECHELON_OPPONENT_REQUIREMENT_HC",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_HEAVY_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "OPPONENT_IS_PROMOTION_CLASS_MELEE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_MELEE"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "UNIT_IS_NOT_ANTICAV_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_ANTI_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "OPPONENT_IS_RAIDER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_NAVAL_RAIDER"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "OPPONENT_IS_HEAVY_CAVALRY_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_HEAVY_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "CHOKE_POINTS_PLOT_REQUIREMENTS_MET_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CHOKE_POINTS_PLOT_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumAmount",
+        "RequirementId": "OPPONENT_IS_DAMAGED_UNIT_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "COURSERS_OPPONENT_REQUIREMENTS_MET_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "COURSERS_OPPONENT_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "PLOT_IS_FOREST_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_FOREST"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "PLOT_IS_JUNGLE_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_JUNGLE"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "PLOT_IS_MARSH_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_MARSH"
+    },
+    {
+        "Extra": null,
+        "Name": "MinDistance",
+        "RequirementId": "HOLD_THE_LINE_ADJACENT_UNIT_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "OPPONENT_IS_LAND_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_LAND"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "OPPONENT_IS_SEA_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_SEA"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "OPPONENT_PLOT_IS_CITY_CENTER_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "Extra": null,
+        "Name": "VictoryType",
+        "RequirementId": "TIME_DEFEAT_SCORE_DISABLED",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "VICTORY_SCORE"
+    },
+    {
+        "Extra": null,
+        "Name": "CollectionType",
+        "RequirementId": "DEFAULT_VICTORY_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "COLLECTION_MAJOR_TEAMS"
+    },
+    {
+        "Extra": null,
+        "Name": "Count",
+        "RequirementId": "DEFAULT_VICTORY_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "VictoryType",
+        "RequirementId": "DEFAULT_VICTORY_DOMINATION_DISABLED",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "VICTORY_CONQUEST"
+    },
+    {
+        "Extra": null,
+        "Name": "CollectionType",
+        "RequirementId": "CULTURE_VICTORY_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "COLLECTION_TEAM_PLAYERS"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "CULTURE_VICTORY_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CULTURE_VICTORY_PER_MEMBER_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "CollectionType",
+        "RequirementId": "CULTURE_VICTORY_PER_MEMBER_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "COLLECTION_MAJOR_OPPOSING_PLAYERS"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "CULTURE_VICTORY_PER_MEMBER_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CULTURE_VICTORY_ENOUGH_TOURISTS_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "CollectionType",
+        "RequirementId": "RELIGIOUS_VICTORY_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "COLLECTION_TEAM_PLAYERS"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "RELIGIOUS_VICTORY_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RELIGIOUS_VICTORY_PER_MEMBER_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "CollectionType",
+        "RequirementId": "RELIGIOUS_VICTORY_PER_MEMBER_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "COLLECTION_MAJOR_OPPOSING_PLAYERS"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "RELIGIOUS_VICTORY_PER_MEMBER_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RELIGIOUS_VICTORY_RELIGIOUS_MAJORITY_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "ProjectType",
+        "RequirementId": "TECHNOLOGY_VICTORY_EARTH_SATELLITE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROJECT_LAUNCH_EARTH_SATELLITE"
+    },
+    {
+        "Extra": null,
+        "Name": "ProjectType",
+        "RequirementId": "TECHNOLOGY_VICTORY_MOON_LANDING",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROJECT_LAUNCH_MOON_LANDING"
+    },
+    {
+        "Extra": null,
+        "Name": "TechnologyType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_MASS_PRODUCTION_TECHNOLOGY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TECH_MASS_PRODUCTION"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_AQUEDUCT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_AQUEDUCT"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "REQUIRES_PLAYER_IS_INDUSTRIAL_ERA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_INDUSTRIAL"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "REQUIRES_PLOT_HAS_SHALLOW_WATER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_COAST"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "MAP_CONTAINS_LYSEFJORDEN",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_LYSEFJORDEN"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "MAP_CONTAINS_GIANTS_CAUSEWAY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_GIANTS_CAUSEWAY"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "PLOT_ADJACENT_TO_LYSEFJORDEN_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_LYSEFJORDEN"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitDomain",
+        "RequirementId": "UNIT_IS_NAVAL_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DOMAIN_SEA"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "PLOT_ADJACENT_TO_GIANTS_CAUSEWAY_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_GIANTS_CAUSEWAY"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_PYRAMID",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_PYRAMID"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictPercentThreshold",
+        "RequirementId": "REQUIRES_LEADS_DISTRICTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "80"
+    },
+    {
+        "Extra": null,
+        "Name": "MinDistrictsNeeded",
+        "RequirementId": "REQUIRES_LEADS_DISTRICTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "AboveThreshold",
+        "RequirementId": "REQUIRES_LEADS_DISTRICTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictPercentThreshold",
+        "RequirementId": "REQUIRES_LAGS_DISTRICTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "60"
+    },
+    {
+        "Extra": null,
+        "Name": "MinDistrictsNeeded",
+        "RequirementId": "REQUIRES_LAGS_DISTRICTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "AboveThreshold",
+        "RequirementId": "REQUIRES_LAGS_DISTRICTS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "UNIT_ADJACENT_TO_GREAT_GENERAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_GREAT_GENERAL"
+    },
+    {
+        "Extra": null,
+        "Name": "IncludeCenter",
+        "RequirementId": "UNIT_ADJACENT_TO_GREAT_GENERAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_APADANA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_APADANA"
+    },
+    {
+        "Extra": null,
+        "Name": "GreatPersonClassType",
+        "RequirementId": "REQUIREMENT_UNIT_IS_ADMIRAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "GREAT_PERSON_CLASS_ADMIRAL"
+    },
+    {
+        "Extra": null,
+        "Name": "GreatPersonClassType",
+        "RequirementId": "REQUIREMENT_UNIT_IS_ENGINEER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "GREAT_PERSON_CLASS_ENGINEER"
+    },
+    {
+        "Extra": null,
+        "Name": "CivicType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_POLITICAL_PHILOSOPHY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CIVIC_POLITICAL_PHILOSOPHY"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "REQUIREMENT_UNIT_IS_HETAIROI",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_HETAIROI"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_TSIKHE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_TSIKHE"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_SEOWON",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_SEOWON"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "REQUIRES_ERA_ATLEASTEXPANSION_ATOMIC",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_ATOMIC"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "REQUIRES_PLOT_HAS_EYE_SAHARA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_EYE_OF_THE_SAHARA"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "PLAYER_HAS_ZHANGYE_DANXIA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_ZHANGYE_DANXIA"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "MAP_CONTAINS_MATTERHORN",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_MATTERHORN"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "MATTERHORN_REQUIRES_ADJACENT_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_MATTERHORN"
+    },
+    {
+        "Extra": null,
+        "Name": "AverageWallLevelThreshold",
+        "RequirementId": "REQUIRES_HAS_HIGH_WALLS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.0"
+    },
+    {
+        "Extra": null,
+        "Name": "AboveThreshold",
+        "RequirementId": "REQUIRES_HAS_HIGH_WALLS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "AverageWallLevelThreshold",
+        "RequirementId": "REQUIRES_HAS_LOW_WALLS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0.5"
+    },
+    {
+        "Extra": null,
+        "Name": "AboveThreshold",
+        "RequirementId": "REQUIRES_HAS_LOW_WALLS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MinOwnerAlliances",
+        "RequirementId": "REQUIRES_HAS_MANY_ALLIANCES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "MinOwnerAlliances",
+        "RequirementId": "REQUIRES_HAS_FEW_ALLIANCES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "ChecKForFewer",
+        "RequirementId": "REQUIRES_HAS_FEW_ALLIANCES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "SharingInfoWell",
+        "RequirementId": "REQUIRES_SHARING_INFO",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "SharingInfoWell",
+        "RequirementId": "REQUIRES_NOT_SHARING_INFO",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_NO_MARKET",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_MARKET"
+    },
+    {
+        "Extra": null,
+        "Name": "MustBeFunctioning",
+        "RequirementId": "REQUIRES_NO_MARKET",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "REQUIRES_CITY_HAS_5_SNOW",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_SNOW"
+    },
+    {
+        "Extra": null,
+        "Name": "Hills",
+        "RequirementId": "REQUIRES_CITY_HAS_5_SNOW",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_CITY_HAS_5_SNOW",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_PLOT_HAS_ARTEMIS_WITHIN_4",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_TEMPLE_ARTEMIS"
+    },
+    {
+        "Extra": null,
+        "Name": "MinRange",
+        "RequirementId": "REQUIRES_PLOT_HAS_ARTEMIS_WITHIN_4",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxRange",
+        "RequirementId": "REQUIRES_PLOT_HAS_ARTEMIS_WITHIN_4",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "4"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_PLOT_HAS_LIBERTY_WITHIN_6",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_STATUE_LIBERTY"
+    },
+    {
+        "Extra": null,
+        "Name": "MinRange",
+        "RequirementId": "REQUIRES_PLOT_HAS_LIBERTY_WITHIN_6",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxRange",
+        "RequirementId": "REQUIRES_PLOT_HAS_LIBERTY_WITHIN_6",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "6"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_PLOT_HAS_COLOSSEUM_WITHIN_6",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_COLOSSEUM"
+    },
+    {
+        "Extra": null,
+        "Name": "MinRange",
+        "RequirementId": "REQUIRES_PLOT_HAS_COLOSSEUM_WITHIN_6",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxRange",
+        "RequirementId": "REQUIRES_PLOT_HAS_COLOSSEUM_WITHIN_6",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "6"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_SUZERAIN_SCIENTIFIC_1_LEADER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "LeaderType",
+        "RequirementId": "REQUIRES_SUZERAIN_SCIENTIFIC_1_LEADER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "LEADER_MINOR_CIV_SCIENTIFIC"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_SUZERAIN_RELIGIOUS_1_LEADER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "LeaderType",
+        "RequirementId": "REQUIRES_SUZERAIN_RELIGIOUS_1_LEADER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "LEADER_MINOR_CIV_RELIGIOUS"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_SUZERAIN_TRADE_1_LEADER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "LeaderType",
+        "RequirementId": "REQUIRES_SUZERAIN_TRADE_1_LEADER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "LEADER_MINOR_CIV_TRADE"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_SUZERAIN_CULTURAL_1_LEADER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "LeaderType",
+        "RequirementId": "REQUIRES_SUZERAIN_CULTURAL_1_LEADER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "LEADER_MINOR_CIV_CULTURAL"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_SUZERAIN_MILITARISTIC_1_LEADER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "LeaderType",
+        "RequirementId": "REQUIRES_SUZERAIN_MILITARISTIC_1_LEADER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "LEADER_MINOR_CIV_MILITARISTIC"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_SUZERAIN_INDUSTRIAL_1_LEADER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "LeaderType",
+        "RequirementId": "REQUIRES_SUZERAIN_INDUSTRIAL_1_LEADER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "LEADER_MINOR_CIV_INDUSTRIAL"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_SUZERAIN_SCIENTIFIC_2_LEADERS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "LeaderType",
+        "RequirementId": "REQUIRES_SUZERAIN_SCIENTIFIC_2_LEADERS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "LEADER_MINOR_CIV_SCIENTIFIC"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_SUZERAIN_RELIGIOUS_2_LEADERS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "LeaderType",
+        "RequirementId": "REQUIRES_SUZERAIN_RELIGIOUS_2_LEADERS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "LEADER_MINOR_CIV_RELIGIOUS"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_SUZERAIN_TRADE_2_LEADERS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "LeaderType",
+        "RequirementId": "REQUIRES_SUZERAIN_TRADE_2_LEADERS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "LEADER_MINOR_CIV_TRADE"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_SUZERAIN_CULTURAL_2_LEADERS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "LeaderType",
+        "RequirementId": "REQUIRES_SUZERAIN_CULTURAL_2_LEADERS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "LEADER_MINOR_CIV_CULTURAL"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_SUZERAIN_MILITARISTIC_2_LEADERS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "LeaderType",
+        "RequirementId": "REQUIRES_SUZERAIN_MILITARISTIC_2_LEADERS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "LEADER_MINOR_CIV_MILITARISTIC"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_SUZERAIN_INDUSTRIAL_2_LEADERS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "LeaderType",
+        "RequirementId": "REQUIRES_SUZERAIN_INDUSTRIAL_2_LEADERS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "LEADER_MINOR_CIV_INDUSTRIAL"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "REQUIRES_PLOT_HAS_REEF",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_REEF"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "AQUATICS_CENTER_REQUIREMENTS_MET_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "AQUATICS_CENTER_COASTAL_WONDER_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_POPULATION_10",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "10"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_POPULATION_20",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "20"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_ST_BASILS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_ST_BASILS_CATHEDRAL"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "PLAYER_HAS_GOV_BUILDING_TALL_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_TALL"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "PLAYER_HAS_GOV_BUILDING_WIDE_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_WIDE"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "PLAYER_HAS_GOV_BUILDING_CONQUEST_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_CONQUEST"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "PLAYER_HAS_GOV_BUILDING_CITYSTATES_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_CITYSTATES"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "PLAYER_HAS_GOV_BUILDING_FAITH_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_FAITH"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "PLAYER_HAS_GOV_BUILDING_SPIES_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_SPIES"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "PLAYER_HAS_GOV_BUILDING_MILITARY_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_MILITARY"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "PLAYER_HAS_GOV_BUILDING_SCIENCE_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_SCIENCE"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "PLAYER_HAS_GOV_BUILDING_CULTURE_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_CULTURE"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_ARENA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_ARENA"
+    },
+    {
+        "Extra": null,
+        "Name": "TechnologyType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_POTTERY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TECH_POTTERY"
+    },
+    {
+        "Extra": null,
+        "Name": "Type",
+        "RequirementId": "OPPONENT_IS_IN_GOLDEN_AGE_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "GOLDEN"
+    },
+    {
+        "Extra": null,
+        "Name": "OnlyOwnersCity",
+        "RequirementId": "CITY_IS_OCCUPIED_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MilitaryFormation",
+        "RequirementId": "REQUIRES_CITY_HAS_GARRISON_CORPS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CORPS_MILITARY_FORMATION"
+    },
+    {
+        "Extra": null,
+        "Name": "MilitaryFormation",
+        "RequirementId": "REQUIRES_CITY_HAS_GARRISON_ARMY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ARMY_MILITARY_FORMATION"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_MISSION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_MISSION"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "PLAYER_HAS_GOVERNMENT_DISTRICT_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_GOVERNMENT"
+    },
+    {
+        "Extra": null,
+        "Name": "Level",
+        "RequirementId": "REQUIRES_PLAYER_HAS_HIGH_DIPLO_VIS_OF_TARGET",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "Level",
+        "RequirementId": "REQUIRES_HIGH_ALLIANCE_LEVEL_WITH_EMERGENCY_PLAYER_DATA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "REQUIRES_UNIT_IS_SPY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_SPY"
+    },
+    {
+        "Extra": null,
+        "Name": "CombatVersusType",
+        "RequirementId": "REQUIRES_COMBAT_UNIT_VS_UNIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "COMBAT_UNIT_VS_UNIT"
+    },
+    {
+        "Extra": null,
+        "Name": "CombatVersusType",
+        "RequirementId": "REQUIRES_COMBAT_IS_CITY_STRIKE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "COMBAT_DISTRICT_VS_UNIT"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_PALACE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_PALACE"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_GOV_TALL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_TALL"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_GOV_WIDE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_WIDE"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_GOV_CONQUEST",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_CONQUEST"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_GOV_CITYSTATES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_CITYSTATES"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_GOV_SPIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_SPIES"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_GOV_FAITH",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_FAITH"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_GOV_MILITARY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_MILITARY"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_GOV_CULTURE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_CULTURE"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_GOV_SCIENCE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GOV_SCIENCE"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_CITY_HAS_GOV_DISTRICT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_GOVERNMENT"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_CITY_HAS_1_SPECIALTY_DISTRICT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "Established",
+        "RequirementId": "REQUIRES_CITY_HAS_GOVERNOR_PROMOTION_MERCHANT_RENEWABLE_ENERGY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "GovernorPromotionType",
+        "RequirementId": "REQUIRES_CITY_HAS_GOVERNOR_PROMOTION_MERCHANT_RENEWABLE_ENERGY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "GOVERNOR_PROMOTION_MERCHANT_RENEWABLE_ENERGY"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_CITY_HAS_SOLAR_FARM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_SOLAR_FARM"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_CITY_HAS_WIND_FARM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_WIND_FARM"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_CITY_HAS_OFFSHORE_WIND_FARM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_OFFSHORE_WIND_FARM"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_CITY_HAS_GEOTHERMAL_PLANT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_GEOTHERMAL_PLANT"
+    },
+    {
+        "Extra": null,
+        "Name": "GovernorPromotionType",
+        "RequirementId": "REQUIRES_CITY_HAS_GOVERNOR_PROMOTION_PARKS_RECREATION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "GOVERNOR_PROMOTION_PARKS_RECREATION"
+    },
+    {
+        "Extra": null,
+        "Name": "GovernorPromotionType",
+        "RequirementId": "REQUIRES_CITY_HAS_GOVERNOR_PROMOTION_AQUACULTURE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "GOVERNOR_PROMOTION_AQUACULTURE"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_DISTRICT_IS_DAM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_DAM"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_DISTRICT_IS_CANAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_CANAL"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_DISTRICT_IS_NEIGHBORHOOD",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_NEIGHBORHOOD"
+    },
+    {
+        "Extra": null,
+        "Name": "CivicType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_GLOBALIZATION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CIVIC_GLOBALIZATION"
+    },
+    {
+        "Extra": null,
+        "Name": "CivicType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_CIVIL_SERVICE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CIVIC_CIVIL_SERVICE"
+    },
+    {
+        "Extra": null,
+        "Name": "Handicap",
+        "RequirementId": "REQUIRES_EMPEROR_OR_HIGHER_DIFFICULTY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DIFFICULTY_EMPEROR"
+    },
+    {
+        "Extra": null,
+        "Name": "HostileOnly",
+        "RequirementId": "REQUIRES_SHARED_EMERGENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "UNIT_IS_MONGOLIAN_KESHIG_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_MONGOLIAN_KESHIG"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "OPPONENT_IS_CAVALRY_REQUIREMENTS_MET",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "OPPONENT_IS_CAVALRY_UNIT_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "OPPONENT_IS_LIGHT_CAVALRY_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_LIGHT_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "OPPONENT_IS_RANGED_CAVALRY_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_RANGED_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_BARRACKS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_BARRACKS"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_STABLE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_STABLE"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_ARMORY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_ARMORY"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_WORKSHOP",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_WORKSHOP"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_FACTORY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_FACTORY"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_MARKET",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_MARKET"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_LIBRARY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_LIBRARY"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_AMPHITHEATER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_AMPHITHEATER"
+    },
+    {
+        "Extra": null,
+        "Name": "Level",
+        "RequirementId": "REQUIRES_PLAYER_IS_ALLY_LEVEL_1",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "Level",
+        "RequirementId": "REQUIRES_PLAYER_IS_ALLY_LEVEL_2",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "Level",
+        "RequirementId": "REQUIRES_PLAYER_IS_ALLY_LEVEL_3",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "REQUIRES_ERA_IS_ATOMIC",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_ATOMIC"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "REQUIRES_ERA_IS_INFORMATION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_INFORMATION"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "REQUIRES_ERA_IS_FUTURE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_FUTURE"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "REQUIRES_UNIT_IS_MISSIONARY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_MISSIONARY"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "REQUIRES_UNIT_IS_APOSTLE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_APOSTLE"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "REQUIRES_UNIT_IS_RELIGIOUS",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_IS_RELIGIOUS"
+    },
+    {
+        "Extra": null,
+        "Name": "Established",
+        "RequirementId": "REQUIRES_CITY_HAS_2_TITLE_GOVERNOR",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_CITY_HAS_2_TITLE_GOVERNOR",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_STOCK_EXCHANGE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_STOCK_EXCHANGE"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_CITY_HAS_HIGH_POPULATION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "15"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_CAMPUS_HAS_HIGH_ADJACENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_CAMPUS"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldType",
+        "RequirementId": "REQUIRES_CAMPUS_HAS_HIGH_ADJACENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "YIELD_SCIENCE"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_CAMPUS_HAS_HIGH_ADJACENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "4"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_COMMERCIAL_HUB_HAS_HIGH_ADJACENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_COMMERCIAL_HUB"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldType",
+        "RequirementId": "REQUIRES_COMMERCIAL_HUB_HAS_HIGH_ADJACENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "YIELD_GOLD"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_COMMERCIAL_HUB_HAS_HIGH_ADJACENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "4"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_HOLY_SITE_HAS_HIGH_ADJACENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_HOLY_SITE"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldType",
+        "RequirementId": "REQUIRES_HOLY_SITE_HAS_HIGH_ADJACENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "YIELD_FAITH"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_HOLY_SITE_HAS_HIGH_ADJACENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "4"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_THEATER_SQUARE_HAS_HIGH_ADJACENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_THEATER"
+    },
+    {
+        "Extra": null,
+        "Name": "YieldType",
+        "RequirementId": "REQUIRES_THEATER_SQUARE_HAS_HIGH_ADJACENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "YIELD_CULTURE"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_THEATER_SQUARE_HAS_HIGH_ADJACENCY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "4"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "REQUIRES_UNIT_IS_NAVAL_RAIDER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_NAVAL_RAIDER"
+    },
+    {
+        "Extra": null,
+        "Name": "Established",
+        "RequirementId": "REQUIRES_CITY_WITH_ASSIGNED_GOVERNOR",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MinRange",
+        "RequirementId": "NEAR_FRIENDLY_TERRITORY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxRange",
+        "RequirementId": "NEAR_FRIENDLY_TERRITORY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "4"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "ADJACENT_FRIENDLY_DRONE_UNIT_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_DRONE"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_HIGH_DIPLOVP",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "Ratio",
+        "RequirementId": "REQUIRES_HAS_HIGH_DIPLOVP",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.5"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_LOW_DIPLOVP",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "Ratio",
+        "RequirementId": "REQUIRES_HAS_LOW_DIPLOVP",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1.5"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_HIGH_FAVOR",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "10"
+    },
+    {
+        "Extra": null,
+        "Name": "Ratio",
+        "RequirementId": "REQUIRES_HAS_HIGH_FAVOR",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.3"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_LOW_FAVOR",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "10"
+    },
+    {
+        "Extra": null,
+        "Name": "Ratio",
+        "RequirementId": "REQUIRES_HAS_LOW_FAVOR",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1.3"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_HIGH_TOURISM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "100"
+    },
+    {
+        "Extra": null,
+        "Name": "Ratio",
+        "RequirementId": "REQUIRES_HAS_HIGH_TOURISM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.3"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_LOW_TOURISM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "100"
+    },
+    {
+        "Extra": null,
+        "Name": "Ratio",
+        "RequirementId": "REQUIRES_HAS_LOW_TOURISM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1.3"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_HIGH_PILLAGE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "Ratio",
+        "RequirementId": "REQUIRES_HAS_HIGH_PILLAGE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1.3"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumDelta",
+        "RequirementId": "REQUIRES_HAS_LOW_PILLAGE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "5"
+    },
+    {
+        "Extra": null,
+        "Name": "Ratio",
+        "RequirementId": "REQUIRES_HAS_LOW_PILLAGE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "-1.3"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "REQUIRES_PLOT_HAS_GEOTHERMAL_FIISSURE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_GEOTHERMAL_FISSURE"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "REQUIRES_PLOT_HAS_VOLCANIC_SOIL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_VOLCANIC_SOIL"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_PLAYER_HAS_AT_LEAST_ONE_CITY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumAppeal",
+        "RequirementId": "REQUIRES_PLOT_BREATHTAKING_APPEAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "4"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceClassType",
+        "RequirementId": "REQUIRES_PLOT_HAS_IMPROVED_STRATEGIC",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCECLASS_STRATEGIC"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_WORK_ETHIC_DISTRICT_IS_HOLY_SITE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_HOLY_SITE"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_CATHEDRAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_CATHEDRAL"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_DAR_E_MEHR",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_DAR_E_MEHR"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_GURDWARA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_GURDWARA"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_MEETING_HOUSE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_MEETING_HOUSE"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_MOSQUE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_MOSQUE"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_PAGODA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_PAGODA"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_STUPA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_STUPA"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_SYNAGOGUE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_SYNAGOGUE"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_WAT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_WAT"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "PLAYER_HAS_QUEENS_BIBLIOTHEQUE_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_QUEENS_BIBLIOTHEQUE"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "CITY_HAS_1_OR_MORE_GEOTHERMALFISSURE_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_GEOTHERMAL_FISSURE"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "CITY_HAS_1_OR_MORE_GEOTHERMALFISSURE_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_PLOT_HAS_MAORI_PA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_MAORI_PA"
+    },
+    {
+        "Extra": null,
+        "Name": "CivicType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_MERCANTILISM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CIVIC_MERCANTILISM"
+    },
+    {
+        "Extra": null,
+        "Name": "CivicType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_CONSERVATION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CIVIC_CONSERVATION"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "REQUIREMENT_UNIT_IS_MILITARY_ENGINEER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_MILITARY_ENGINEER"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "PLOT_ADJACENT_TO_GEOTHERMAL_FISSURE_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_GEOTHERMAL_FISSURE"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_DISTRICT_IS_BATH",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_BATH"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_PLOT_UNIT_CITY_HAS_COTHON_SAME_OWNER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_COTHON"
+    },
+    {
+        "Extra": null,
+        "Name": "TraitType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NOBEL_PRIZE_TRAIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TRAIT_CIVILIZATION_NOBEL_PRIZE"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "REQUIRES_GAME_ERA_AFTER_INFORMATION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_FUTURE"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "REQUIRES_GAME_ERA_AFTER_ATOMIC",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_INFORMATION"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "REQUIRES_GAME_ERA_AFTER_MODERN",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_ATOMIC"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "REQUIRES_GAME_ERA_AFTER_INDUSTRIAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_MODERN"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "REQUIRES_GAME_ERA_AFTER_RENAISSANCE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_INDUSTRIAL"
+    },
+    {
+        "Extra": null,
+        "Name": "TraitType",
+        "RequirementId": "REQUIRES_GAME_HAS_NOBEL_PRIZE_TRAIT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TRAIT_CIVILIZATION_NOBEL_PRIZE"
+    },
+    {
+        "Extra": null,
+        "Name": "EraType",
+        "RequirementId": "REQUIRES_GAME_ERA_BEFORE_ATOMIC",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_MODERN"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_UNIVERSITY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_UNIVERSITY"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_RESEARCH_LAB",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_RESEARCH_LAB"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_AQUATIC_CENTER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_AQUATICS_CENTER"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_DISTRICT_IS_WATER_ENTERTAINMENT_COMPLEX",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_WATER_ENTERTAINMENT_COMPLEX"
+    },
+    {
+        "Extra": null,
+        "Name": "ProjectType",
+        "RequirementId": "REQUIRES_PLAYER_COMPLETED_EXOPLANET_EXPEDITION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROJECT_LAUNCH_EXOPLANET_EXPEDITION"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumCompletions",
+        "RequirementId": "REQUIRES_PLAYER_COMPLETED_EXOPLANET_EXPEDITION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "MAP_CONTAINS_IKKIL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_IKKIL"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "MAP_CONTAINS_PAMUKKALE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_PAMUKKALE"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_ENTERTAINMENT_COMPLEX",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_ENTERTAINMENT_COMPLEX"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "REQUIRES_PAMUKKALE_IN_CITY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_PAMUKKALE"
+    },
+    {
+        "Extra": null,
+        "Name": "MinDistance",
+        "RequirementId": "10_PLOTS_AWAY_MAX_UNIT_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxDistance",
+        "RequirementId": "10_PLOTS_AWAY_MAX_UNIT_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "10"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "PLOT_ADJACENT_TO_VOLCANIC_SOIL_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_VOLCANIC_SOIL"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "PLOT_VOLCANIC_SOIL_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_VOLCANIC_SOIL"
+    },
+    {
+        "Extra": null,
+        "Name": "CivicType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_CIVIL_SERVICE_XP2",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CIVIC_CIVIL_SERVICE"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "REQUIRES_PLOT_DESERT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "Extra": null,
+        "Name": "TechnologyType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_MASS_PRODUCTION_XP2",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TECH_MASS_PRODUCTION"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_PLOT_IS_ADJACENT_TO_STADIUM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_STADIUM"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_NOT_ADJACENT_TO_AQUEDUCT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_AQUEDUCT"
+    },
+    {
+        "Extra": null,
+        "Name": "MustBeFunctioning",
+        "RequirementId": "REQUIRES_NOT_ADJACENT_TO_AQUEDUCT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "CivicType",
+        "RequirementId": "REQUIRES_PLAYER_DOES_NOT_HAVE_NATURAL_HISTORY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CIVIC_NATURAL_HISTORY"
+    },
+    {
+        "Extra": null,
+        "Name": "CivicType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_CULTURAL_HERITAGE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CIVIC_CULTURAL_HERITAGE"
+    },
+    {
+        "Extra": null,
+        "Name": "CivicType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NATURAL_HISTORY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CIVIC_NATURAL_HISTORY"
+    },
+    {
+        "Extra": null,
+        "Name": "CivicType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_COLONIALISM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CIVIC_COLONIALISM"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "REQUIRES_PLOT_HAS_FLOODPLAINS_TAG",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_FLOODPLAINS"
+    },
+    {
+        "Extra": null,
+        "Name": "GovernmentBuildingTier",
+        "RequirementId": "REQUIRES_CITY_HAS_TIER_1_GOV_BUILDING",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "Tier1"
+    },
+    {
+        "Extra": null,
+        "Name": "GovernmentBuildingTier",
+        "RequirementId": "REQUIRES_CITY_HAS_TIER_2_GOV_BUILDING",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "Tier2"
+    },
+    {
+        "Extra": null,
+        "Name": "GovernmentBuildingTier",
+        "RequirementId": "REQUIRES_CITY_HAS_TIER_3_GOV_BUILDING",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "Tier3"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_PLAYER_HAS_AT_LEAST_NO_CITY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "Amount",
+        "RequirementId": "REQUIRES_PLAYER_HAS_ONLY_ONE_CITY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "CivicType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_CIVIL_ENGINEERING_CIVIC",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CIVIC_CIVIL_ENGINEERING"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_SHIPYARD",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_SHIPYARD"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_IMPROVED_ALUMINUM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_ALUMINUM"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_IMPROVED_COAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_COAL"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_IMPROVED_HORSES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_HORSES"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_IMPROVED_IRON",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_IRON"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_IMPROVED_NITER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_NITER"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_IMPROVED_OIL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_OIL"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_NO_IMPROVED_URANIUM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_URANIUM"
+    },
+    {
+        "Extra": null,
+        "Name": "TerrainType",
+        "RequirementId": "REQUIRES_PLOT_HAS_SNOW",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TERRAIN_SNOW"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_PLOT_HAS_LUMBER_MILL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_LUMBER_MILL"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_CITY_HAS_SPACEPORT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_SPACEPORT"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "REQUIREMENT_UNIT_IS_ROCK_BAND",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_ROCK_BAND"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_MUSEUM_ART",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_MUSEUM_ART"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_BROADCAST_CENTER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_BROADCAST_CENTER"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_BANK",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_BANK"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_POWER_PLANT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_POWER_PLANT"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_COAL_POWER_PLANT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_COAL_POWER_PLANT"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_FOSSIL_FUEL_POWER_PLANT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_FOSSIL_FUEL_POWER_PLANT"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "REQUIREMENT_UNIT_IS_GREAT_GENERAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_GREAT_GENERAL"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "REQUIRES_UNIT_GIANT_DEATH_ROBOT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_GIANT_DEATH_ROBOT"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "REQUIRES_UNIT_IS_ADJACENT_RELIGIOUS_ALL_XP2",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_RELIGIOUS_ALL"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "REQUIRES_UNIT_IS_ADJACENT_GURU_XP2",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_GURU"
+    },
+    {
+        "Extra": null,
+        "Name": "MinDistance",
+        "RequirementId": "TRADER_IS_WITHIN_FOUR_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxDistance",
+        "RequirementId": "TRADER_IS_WITHIN_FOUR_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "4"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "TRADER_IS_WITHIN_FOUR_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_TRADER"
+    },
+    {
+        "Extra": null,
+        "Name": "SameOwner",
+        "RequirementId": "UNIT_OWNER_PARK_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "MinDistance",
+        "RequirementId": "UNIT_OWNER_PARK_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxDistance",
+        "RequirementId": "UNIT_OWNER_PARK_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "SameOwner",
+        "RequirementId": "UNIT_PARK_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MinDistance",
+        "RequirementId": "UNIT_PARK_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxDistance",
+        "RequirementId": "UNIT_PARK_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "MinRange",
+        "RequirementId": "IS_FRIENDLY_TERRITORY_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxRange",
+        "RequirementId": "IS_FRIENDLY_TERRITORY_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumEraType",
+        "RequirementId": "OPPONENT_INFO_FUTURE_ERA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_INFORMATION"
+    },
+    {
+        "Extra": null,
+        "Name": "CollectionType",
+        "RequirementId": "EXOPLANET_TECHNOLOGY_VICTORY_PER_TEAM_REQUIREMENTS_MET",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "COLLECTION_TEAM_PLAYERS"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "EXOPLANET_TECHNOLOGY_VICTORY_PER_TEAM_REQUIREMENTS_MET",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "EXOPLANET_TECHNOLOGY_VICTORY_PER_TEAM_REQUIREMENTS"
+    },
+    {
+        "Extra": null,
+        "Name": "ProjectType",
+        "RequirementId": "TECHNOLOGY_VICTORY_MARS_BASE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROJECT_LAUNCH_MARS_BASE"
+    },
+    {
+        "Extra": null,
+        "Name": "ProjectType",
+        "RequirementId": "TECHNOLOGY_VICTORY_EXOPLANET_EXPEDITION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROJECT_LAUNCH_EXOPLANET_EXPEDITION"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumCities",
+        "RequirementId": "REQUIRES_HAS_LOW_MOUNTAIN_CITIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "Percentage",
+        "RequirementId": "REQUIRES_HAS_LOW_MOUNTAIN_CITIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "35"
+    },
+    {
+        "Extra": null,
+        "Name": "BelowPercentage",
+        "RequirementId": "REQUIRES_HAS_LOW_MOUNTAIN_CITIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "DistanceToMountain",
+        "RequirementId": "REQUIRES_HAS_LOW_MOUNTAIN_CITIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumCities",
+        "RequirementId": "REQUIRES_HAS_HIGH_MOUNTAIN_CITIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "Percentage",
+        "RequirementId": "REQUIRES_HAS_HIGH_MOUNTAIN_CITIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "65"
+    },
+    {
+        "Extra": null,
+        "Name": "BelowPercentage",
+        "RequirementId": "REQUIRES_HAS_HIGH_MOUNTAIN_CITIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "DistanceToMountain",
+        "RequirementId": "REQUIRES_HAS_HIGH_MOUNTAIN_CITIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumCities",
+        "RequirementId": "REQUIRES_HAS_LOW_COASTAL_CITIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "Percentage",
+        "RequirementId": "REQUIRES_HAS_LOW_COASTAL_CITIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "40"
+    },
+    {
+        "Extra": null,
+        "Name": "BelowPercentage",
+        "RequirementId": "REQUIRES_HAS_LOW_COASTAL_CITIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumCities",
+        "RequirementId": "REQUIRES_HAS_HIGH_COASTAL_CITIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "3"
+    },
+    {
+        "Extra": null,
+        "Name": "Percentage",
+        "RequirementId": "REQUIRES_HAS_HIGH_COASTAL_CITIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "70"
+    },
+    {
+        "Extra": null,
+        "Name": "BelowPercentage",
+        "RequirementId": "REQUIRES_HAS_HIGH_COASTAL_CITIES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "MinimumAppeal",
+        "RequirementId": "REQUIRES_PLOT_BREATHTAKING_APPEAL_ROOSEVELT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "4"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_FOREST_ROOSEVELT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_FOREST"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "PLOT_ADJACENT_FORESTS_OR_WONDERS_REQUIREMENTS_MET",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "REQUIREMENTS_PLOT_ADJACENT_FORESTS_OR_WONDERS"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "PLOT_ADJACENT_NATURAL_WONDERS_OR_MOUNTAINS_MET",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "REQUIREMENTS_PLOT_ADJACENT_NATURAL_WONDERS_OR_MOUNTAINS"
+    },
+    {
+        "Extra": null,
+        "Name": "EarliestEra",
+        "RequirementId": "REQUIRE_THIS_WONDER_IS_ANCIENT_OR_CLASSICAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_ANCIENT"
+    },
+    {
+        "Extra": null,
+        "Name": "LatestEra",
+        "RequirementId": "REQUIRE_THIS_WONDER_IS_ANCIENT_OR_CLASSICAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_CLASSICAL"
+    },
+    {
+        "Extra": null,
+        "Name": "EarliestEra",
+        "RequirementId": "REQUIRE_THIS_WONDER_IS_ANCIENT_OR_CLASSICAL_INVERSE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_ANCIENT"
+    },
+    {
+        "Extra": null,
+        "Name": "LatestEra",
+        "RequirementId": "REQUIRE_THIS_WONDER_IS_ANCIENT_OR_CLASSICAL_INVERSE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "ERA_CLASSICAL"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_MAHAVIHARA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_MAHAVIHARA"
+    },
+    {
+        "Extra": null,
+        "Name": "TechnologyType",
+        "RequirementId": "REQUIRES_PLAYER_HAS_INDUSTRIALIZATION",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "TECH_INDUSTRIALIZATION"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "ANTI_CAVALRY_OPPONENT_PROMOTION_CLASS_REQUIREMENT_LC",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_LIGHT_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitPromotionClass",
+        "RequirementId": "ANTI_CAVALRY_OPPONENT_PROMOTION_CLASS_REQUIREMENT_HC",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "PROMOTION_CLASS_HEAVY_CAVALRY"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_MAIZE_IN_PLOT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_MAIZE"
+    },
+    {
+        "Extra": null,
+        "Name": "CivilizationType",
+        "RequirementId": "PLAYER_IS_MAYA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CIVILIZATION_MAYA"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_PLOT_HAS_FARM_GRANCOLOMBIA_MAYA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_FARM"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "MAP_CONTAINS_FOUNTAIN_OF_YOUTH",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_FOUNTAIN_OF_YOUTH"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "REQUIRES_UNIT_INSIDE_FOUNTAIN_OF_YOUTH",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_FOUNTAIN_OF_YOUTH"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "MAP_CONTAINS_PAITITI",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_PAITITI"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "REQUIRES_PAITITI_IN_CITY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_PAITITI"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "MAP_CONTAINS_BERMUDA_TRIANGLE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_BERMUDA_TRIANGLE"
+    },
+    {
+        "Extra": null,
+        "Name": "FeatureType",
+        "RequirementId": "REQUIRES_UNIT_INSIDE_BERMUDA_TRIANGLE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "FEATURE_BERMUDA_TRIANGLE"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "UNIT_IS_LLANERO_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_COLOMBIAN_LLANERO"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxDistance",
+        "RequirementId": "UNIT_IS_ENEMY_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "2"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxDistance",
+        "RequirementId": "REQUIRES_OBJECT_9_TILES_FROM_CAPITAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "6"
+    },
+    {
+        "Extra": null,
+        "Name": "MinDistance",
+        "RequirementId": "REQUIRES_OBJECT_10_OR_MORE_TILES_FROM_CAPITAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "10"
+    },
+    {
+        "Extra": null,
+        "Name": "MinDistance",
+        "RequirementId": "REQUIRES_OBJECT_6_TILES_FROM_CAPITAL_NOT_CAPITAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxDistance",
+        "RequirementId": "REQUIRES_OBJECT_6_TILES_FROM_CAPITAL_NOT_CAPITAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "6"
+    },
+    {
+        "Extra": null,
+        "Name": "MaxDistance",
+        "RequirementId": "REQUIRES_OBJECT_6_TILES_FROM_CAPITAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "6"
+    },
+    {
+        "Extra": null,
+        "Name": "MinDistance",
+        "RequirementId": "REQUIRES_OBJECT_7_OR_MORE_TILES_FROM_CAPITAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "7"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_CITY_HAS_IMPROVED_ALUMINUM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_ALUMINUM"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_CITY_HAS_IMPROVED_COAL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_COAL"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_CITY_HAS_IMPROVED_HORSES",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_HORSES"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_CITY_HAS_IMPROVED_IRON",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_IRON"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_CITY_HAS_IMPROVED_NITER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_NITER"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_CITY_HAS_IMPROVED_OIL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_OIL"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceType",
+        "RequirementId": "REQUIRES_CITY_HAS_IMPROVED_URANIUM",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCE_URANIUM"
+    },
+    {
+        "Extra": null,
+        "Name": "LeaderType",
+        "RequirementId": "PLAYER_HAS_LAHORE_SUZERAIN",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "LEADER_MINOR_CIV_LAHORE"
+    },
+    {
+        "Extra": null,
+        "Name": "UnitType",
+        "RequirementId": "LLANERO_IS_ADJACENT_REQUIREMENT",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "UNIT_COLOMBIAN_LLANERO"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "REQUIRES_UNIT_IS_ADJACENT_RELIGIOUS_ALL_TAG_BYZANTIUMGAUL",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_RELIGIOUS_ALL"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "REQUIRES_UNIT_IS_ADJACENT_TAGMA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_TAGMA"
+    },
+    {
+        "Extra": null,
+        "Name": "IncludeCenter",
+        "RequirementId": "REQUIRES_UNIT_IS_ADJACENT_TAGMA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "1"
+    },
+    {
+        "Extra": null,
+        "Name": "Tag",
+        "RequirementId": "REQUIRES_UNIT_IS_NOTCENTER_ADJACENT_TAGMA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "CLASS_TAGMA"
+    },
+    {
+        "Extra": null,
+        "Name": "IncludeCenter",
+        "RequirementId": "REQUIRES_UNIT_IS_NOTCENTER_ADJACENT_TAGMA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "0"
+    },
+    {
+        "Extra": null,
+        "Name": "ImprovementType",
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_CHATEAU",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "IMPROVEMENT_CHATEAU"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_THEATER_SQUARE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_THEATER"
+    },
+    {
+        "Extra": null,
+        "Name": "ResourceClassType",
+        "RequirementId": "REQUIRES_PLOT_HAS_IMPROVED_LUXURY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "RESOURCECLASS_LUXURY"
+    },
+    {
+        "Extra": null,
+        "Name": "RequirementSetId",
+        "RequirementId": "PLOT_ADJACENT_THEATER_SQUARE_OR_CHATEAU_REQUIREMENTS_MET",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "REQUIREMENTS_PLOT_ADJACENT_THEATER_SQUARE_OR_CHATEAU"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_CONSULATE",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_CONSULATE"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_CHANCERY",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_CHANCERY"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_BARRACKS_ETHIOPIA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_BARRACKS"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_STABLE_ETHIOPIA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_STABLE"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_ARMORY_ETHIOPIA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_ARMORY"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_WORKSHOP_ETHIOPIA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_WORKSHOP"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_FACTORY_ETHIOPIA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_FACTORY"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_POWER_PLANT_ETHIOPIA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_POWER_PLANT"
+    },
+    {
+        "Extra": null,
+        "Name": "DistrictType",
+        "RequirementId": "REQUIRES_PLOT_ADJACENT_TO_CITY_CENTER",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "DISTRICT_CITY_CENTER"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_COAL_POWER_PLANT_ETHIOPIA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_COAL_POWER_PLANT"
+    },
+    {
+        "Extra": null,
+        "Name": "BuildingType",
+        "RequirementId": "REQUIRES_CITY_HAS_FOSSIL_FUEL_POWER_PLANT_ETHIOPIA",
+        "SecondExtra": null,
+        "Type": "ARGTYPE_IDENTITY",
+        "Value": "BUILDING_FOSSIL_FUEL_POWER_PLANT"
+    }
+]

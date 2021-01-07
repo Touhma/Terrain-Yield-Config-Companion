@@ -1,0 +1,138 @@
+[
+    {
+        "FeatureType": "FEATURE_EVEREST",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_EVEREST",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_EVEREST",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_EVEREST",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_EVEREST",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_EVEREST",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_EVEREST",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "FeatureType": "FEATURE_EVEREST",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_EVEREST",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_EVEREST",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_EYJAFJALLAJOKULL",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "FeatureType": "FEATURE_EYJAFJALLAJOKULL",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_EYJAFJALLAJOKULL",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_EYJAFJALLAJOKULL",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_MATTERHORN",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_MATTERHORN",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_MATTERHORN",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_MATTERHORN",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_MATTERHORN",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_MATTERHORN",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_MATTERHORN",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "FeatureType": "FEATURE_MATTERHORN",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_MATTERHORN",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_MATTERHORN",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_VESUVIUS",
+        "TerrainType": "TERRAIN_GRASS"
+    },
+    {
+        "FeatureType": "FEATURE_VESUVIUS",
+        "TerrainType": "TERRAIN_GRASS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_VESUVIUS",
+        "TerrainType": "TERRAIN_PLAINS"
+    },
+    {
+        "FeatureType": "FEATURE_VESUVIUS",
+        "TerrainType": "TERRAIN_PLAINS_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_VESUVIUS",
+        "TerrainType": "TERRAIN_DESERT"
+    },
+    {
+        "FeatureType": "FEATURE_VESUVIUS",
+        "TerrainType": "TERRAIN_DESERT_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_VESUVIUS",
+        "TerrainType": "TERRAIN_SNOW"
+    },
+    {
+        "FeatureType": "FEATURE_VESUVIUS",
+        "TerrainType": "TERRAIN_SNOW_HILLS"
+    },
+    {
+        "FeatureType": "FEATURE_VESUVIUS",
+        "TerrainType": "TERRAIN_TUNDRA"
+    },
+    {
+        "FeatureType": "FEATURE_VESUVIUS",
+        "TerrainType": "TERRAIN_TUNDRA_HILLS"
+    }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "TerrainType": "TERRAIN_COAST",
+    "YieldChange": 2,
+    "YieldType": "YIELD_FOOD"
+  },
+  {
+    "TerrainType": "TERRAIN_GRASS",
+    "YieldChange": 1,
+    "YieldType": "YIELD_FOOD"
+  },
+  {
+    "TerrainType": "TERRAIN_TUNDRA",
+    "YieldChange": 1,
+    "YieldType": "YIELD_FOOD"
+  },
+  {
+    "TerrainType": "TERRAIN_PLAINS",
+    "YieldChange": 1,
+    "YieldType": "YIELD_PRODUCTION"
+  },
+  {
+    "TerrainType": "TERRAIN_GRASS_HILLS",
+    "YieldChange": 1,
+    "YieldType": "YIELD_PRODUCTION"
+  },
+  {
+    "TerrainType": "TERRAIN_PLAINS_HILLS",
+    "YieldChange": 2,
+    "YieldType": "YIELD_PRODUCTION"
+  },
+  {
+    "TerrainType": "TERRAIN_TUNDRA_HILLS",
+    "YieldChange": 1,
+    "YieldType": "YIELD_PRODUCTION"
+  },
+  {
+    "TerrainType": "TERRAIN_SNOW_HILLS",
+    "YieldChange": 1,
+    "YieldType": "YIELD_PRODUCTION"
+  },
+  {
+    "TerrainType": "TERRAIN_DESERT_HILLS",
+    "YieldChange": 1,
+    "YieldType": "YIELD_PRODUCTION"
+  }
+]
